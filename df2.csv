@@ -1,0 +1,1277 @@
+Make,Model,Ex-Showroom_Price,Displacement,Cylinders,Engine_Location,Fuel_Tank_Capacity,Fuel_Type,Body_Type,Type
+Tata,Nano Genx,292667,624,2.0,"Rear, Transverse",24.0,Petrol,Hatchback,Manual
+Tata,Nano Genx,236447,624,2.0,"Rear, Transverse",24.0,Petrol,Hatchback,Manual
+Tata,Nano Genx,296661,624,2.0,"Rear, Transverse",15.0,CNG,Hatchback,Manual
+Tata,Nano Genx,334768,624,2.0,"Rear, Transverse",24.0,Petrol,Hatchback,Automatic
+Tata,Nano Genx,272223,624,2.0,"Rear, Transverse",24.0,Petrol,Hatchback,Manual
+Tata,Nano Genx,314815,624,2.0,"Rear, Transverse",24.0,Petrol,Hatchback,Automatic
+Datsun,Redi-Go,279650,799,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Manual
+Datsun,Redi-Go,351832,799,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Manual
+Datsun,Redi-Go,333419,799,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Manual
+Datsun,Redi-Go,362000,799,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Manual
+Datsun,Redi-Go,390000,999,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Manual
+Datsun,Redi-Go,437065,999,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Automatic
+Renault,Kwid,353290,799,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Manual
+Renault,Kwid,283290,799,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Manual
+Renault,Kwid,383290,799,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Manual
+Renault,Kwid,413290,799,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Manual
+Renault,Kwid,433290,999,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Manual
+Renault,Kwid,454490,999,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Manual
+Renault,Kwid,463290,999,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Automatic
+Renault,Kwid,484490,999,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Automatic
+Renault,Kwid,440990,999,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Manual
+Renault,Kwid,470990,999,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Automatic
+Renault,Kwid,462190,999,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Manual
+Renault,Kwid,492190,999,3.0,"Front, Transverse",28.0,Petrol,Hatchback,Automatic
+Maruti Suzuki,Eeco,352136,1196,4.0,"Front, Longitudinal",40.0,Petrol,MPV,Manual
+Maruti Suzuki,Eeco,380573,1196,4.0,"Front, Longitudinal",40.0,Petrol,MPV,Manual
+Maruti Suzuki,Eeco,392967,1196,4.0,"Front, Longitudinal",40.0,Petrol,MPV,Manual
+Maruti Suzuki,Eeco,466057,1196,4.0,"Front, Longitudinal",40.0,CNG,MPV,Manual
+Maruti Suzuki,Eeco,425255,1196,4.0,"Front, Longitudinal",40.0,CNG,MPV,Manual
+Maruti Suzuki,Alto K10,377588,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Alto K10,394036,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Alto K10,360843,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Alto K10,407238,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Alto K10,439777,998,3.0,"Front, Transverse",35.0,CNG,Hatchback,Manual
+Maruti Suzuki,Alto K10,438559,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Automatic
+Datsun,Go,374990,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Datsun,Go,468229,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Datsun,Go,502492,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Datsun,Go,499990,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Datsun,Go,469990,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Datsun,Go,528464,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Datsun,Go,553015,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Datsun,Go,594464,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Datsun,Go,618015,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Celerio Tour,422444,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Celerio Tour,480670,998,3.0,"Front, Transverse",60.0,CNG,Hatchback,Manual
+Hyundai,Santro,429990,1086,4.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Hyundai,Santro,503990,1086,4.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Hyundai,Santro,547990,1086,4.0,"Front, Transverse",35.0,CNG,Hatchback,Manual
+Hyundai,Santro,530990,1086,4.0,"Front, Transverse",35.0,Petrol,Hatchback,AMT
+Hyundai,Santro,512990,1086,4.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Hyundai,Santro,578990,1086,4.0,"Front, Transverse",60.0,CNG,Hatchback,Manual
+Hyundai,Santro,570990,1086,4.0,"Front, Transverse",35.0,Petrol,Hatchback,AMT
+Hyundai,Santro,556490,1086,4.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Tata,Tiago,460000,1199,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Tata,Tiago,520000,1199,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Tata,Tiago,570000,1199,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Tata,Tiago,599000,1199,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Tata,Tiago,610000,1199,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Tata,Tiago,620000,1199,3.0,"Front, Transverse",35.0,Petrol,Hatchback,AMT
+Tata,Tiago,649000,1199,3.0,"Front, Transverse",35.0,Petrol,Hatchback,AMT
+Tata,Tiago,660000,1199,3.0,"Front, Transverse",35.0,Petrol,Hatchback,AMT
+Maruti Suzuki,Celerio X,481074,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Celerio X,475198,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Celerio X,518198,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Automatic
+Maruti Suzuki,Celerio X,524074,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Automatic
+Maruti Suzuki,Celerio X,499734,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Celerio X,540350,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Celerio X,542735,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Automatic
+Maruti Suzuki,Celerio X,552350,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Automatic
+Maruti Suzuki,Ignis,713898,1197,4.0,"Front, Transverse",32.0,Petrol,Hatchback,AMT
+Maruti Suzuki,Ignis,666898,1197,4.0,"Front, Transverse",32.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Ignis,607841,1197,4.0,"Front, Transverse",32.0,Petrol,Hatchback,AMT
+Maruti Suzuki,Ignis,560841,1197,4.0,"Front, Transverse",32.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Ignis,483320,1197,4.0,"Front, Transverse",32.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Ignis,630320,1197,4.0,"Front, Transverse",32.0,Petrol,Hatchback,AMT
+Maruti Suzuki,Ignis,583320,1197,4.0,"Front, Transverse",32.0,Petrol,Hatchback,Manual
+Renault,Triber,495000,999,3.0,"Front, Transverse",40.0,Petrol,MUV,Manual
+Renault,Triber,559000,999,3.0,"Front, Transverse",40.0,Petrol,MUV,Manual
+Renault,Triber,609000,999,3.0,"Front, Transverse",40.0,Petrol,MUV,Manual
+Renault,Triber,663000,999,3.0,"Front, Transverse",40.0,Petrol,MUV,Manual
+Premier,Rio,506000,1173,4.0,"Front, Longitudinal",46.0,Petrol,SUV,Manual
+Premier,Rio,568623,1489,4.0,"Front, Longitudinal",46.0,Diesel,SUV,Manual
+Premier,Rio,670000,1173,4.0,"Front, Longitudinal",46.0,Petrol,SUV,Manual
+Premier,Rio,603000,1489,4.0,"Front, Longitudinal",46.0,Diesel,SUV,Manual
+Premier,Rio,739000,1489,4.0,"Front, Longitudinal",46.0,Diesel,SUV,Manual
+Premier,Rio,739000,1248,4.0,"Front, Longitudinal",46.0,Diesel,SUV,Manual
+Toyota,Etios Liva,520300,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Toyota,Etios Liva,581000,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Toyota,Etios Liva,647800,1364,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Toyota,Etios Liva,630000,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Toyota,Etios Liva,745000,1364,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Toyota,Etios Liva,704000,1364,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Toyota,Etios Liva,597700,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Toyota,Etios Liva,720700,1364,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Toyota,Etios Liva,641700,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Toyota,Etios Liva,756700,1364,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Toyota,Etios Liva,558400,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Toyota,Etios Liva,686000,1364,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Toyota,Etios Liva,662700,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Toyota,Etios Liva,777700,1364,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Nissan,Micra Active,525021,1198,3.0,"Front, Transverse",41.0,Petrol,Hatchback,Manual
+Nissan,Micra Active,599950,1198,3.0,"Front, Transverse",41.0,Petrol,Hatchback,Manual
+Nissan,Micra Active,563133,1198,3.0,"Front, Transverse",41.0,Petrol,Hatchback,Manual
+Tata,Bolt,787980,1248,4.0,"Front, Transverse",44.0,Diesel,Hatchback,Manual
+Tata,Bolt,661111,1248,4.0,"Front, Transverse",44.0,Diesel,Hatchback,Manual
+Tata,Bolt,693798,1248,4.0,"Front, Transverse",44.0,Diesel,Hatchback,Manual
+Tata,Bolt,719661,1248,4.0,"Front, Transverse",44.0,Diesel,Hatchback,Manual
+Tata,Bolt,674960,1193,4.0,"Front, Transverse",44.0,Petrol,Hatchback,Manual
+Tata,Bolt,529035,1193,4.0,"Front, Transverse",44.0,Petrol,Hatchback,Manual
+Tata,Bolt,590268,1193,4.0,"Front, Transverse",44.0,Petrol,Hatchback,Manual
+Tata,Bolt,614515,1193,4.0,"Front, Transverse",44.0,Petrol,Hatchback,Manual
+Hyundai,Xcent Prime,556130,1197,4.0,"Front, Longitudinal",43.0,CNG + Petrol,Sedan,Manual
+Hyundai,Xcent Prime,536859,1197,4.0,"Front, Longitudinal",43.0,Petrol,Sedan,Manual
+Hyundai,Xcent Prime,556130,1197,4.0,"Front, Longitudinal",43.0,Petrol,Sedan,Manual
+Hyundai,Xcent Prime,536859,1197,4.0,"Front, Longitudinal",43.0,CNG + Petrol,Sedan,Manual
+Hyundai,Xcent Prime,639616,1197,4.0,"Front, Longitudinal",43.0,Diesel,Sedan,Manual
+Hyundai,Xcent Prime,620297,1197,4.0,"Front, Longitudinal",43.0,Diesel,Sedan,Manual
+Maruti Suzuki,Dzire Tour,653523,1248,4.0,"Front, Transverse",42.0,Diesel,Sedan,Manual
+Maruti Suzuki,Dzire Tour,553423,1197,4.0,"Front, Transverse",42.0,Petrol,Sedan,Manual
+Maruti Suzuki,Dzire Tour,598940,1197,4.0,"Front, Transverse",42.0,CNG,Sedan,Manual
+Hyundai,Elite I20,559693,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Hyundai,Elite I20,697803,1396,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Hyundai,Elite I20,634950,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Hyundai,Elite I20,770803,1396,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Hyundai,Elite I20,721693,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Hyundai,Elite I20,876103,1396,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Hyundai,Elite I20,808993,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Hyundai,Elite I20,934003,1396,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Hyundai,Elite I20,920993,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Automatic
+Hyundai,Elite I20,751693,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Hyundai,Elite I20,831693,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Hyundai,Elite I20,846103,1396,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Hyundai,Aura,579900,1197,0.0,"Front, Longitudinal",37.0,Petrol,Sedan,Manual
+Hyundai,Aura,655900,1197,0.0,"Front, Longitudinal",37.0,Petrol,Sedan,Manual
+Hyundai,Aura,705800,1197,0.0,"Front, Longitudinal",37.0,Petrol,Sedan,Automatic
+Hyundai,Aura,729900,1197,0.0,"Front, Longitudinal",37.0,Petrol,Sedan,Manual
+Hyundai,Aura,804800,1197,0.0,"Front, Longitudinal",37.0,Petrol,Sedan,Automatic
+Hyundai,Aura,785900,1197,0.0,"Front, Longitudinal",37.0,Petrol,Sedan,Manual
+Hyundai,Aura,728900,1197,0.0,"Front, Longitudinal",37.0,CNG + Petrol,Sedan,Manual
+Hyundai,Aura,854900,998,0.0,"Front, Longitudinal",37.0,Petrol,Sedan,Manual
+Hyundai,Aura,773800,1186,0.0,"Front, Longitudinal",37.0,Diesel,Sedan,Manual
+Hyundai,Aura,823700,1186,0.0,"Front, Longitudinal",37.0,Diesel,Sedan,Automatic
+Hyundai,Aura,922700,1186,0.0,"Front, Longitudinal",37.0,Diesel,Sedan,Automatic
+Hyundai,Aura,903800,1186,0.0,"Front, Longitudinal",37.0,Diesel,Sedan,Manual
+Volkswagen,Polo,582000,999,3.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Volkswagen,Polo,676500,999,3.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Volkswagen,Polo,776500,999,3.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Volkswagen,Polo,734500,1498,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Volkswagen,Polo,851500,1498,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Volkswagen,Polo,931500,1498,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Volkswagen,Polo,976000,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Automatic
+Volkswagen,Polo,988500,1498,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Maruti Suzuki,Dzire,582613,1197,4.0,"Front, Transverse",37.0,Petrol,Sedan,Manual
+Maruti Suzuki,Dzire,673112,1197,4.0,"Front, Transverse",37.0,Petrol,Sedan,Manual
+Maruti Suzuki,Dzire,666622,1248,4.0,"Front, Transverse",37.0,Diesel,Sedan,Manual
+Maruti Suzuki,Dzire,732113,1197,4.0,"Front, Transverse",37.0,Petrol,Sedan,Manual
+Maruti Suzuki,Dzire,757622,1248,4.0,"Front, Transverse",37.0,Diesel,Sedan,Manual
+Maruti Suzuki,Dzire,720112,1197,4.0,"Front, Transverse",37.0,Petrol,Sedan,Automatic
+Maruti Suzuki,Dzire,863122,1248,4.0,"Front, Transverse",37.0,Diesel,Sedan,Automatic
+Maruti Suzuki,Dzire,816622,1248,4.0,"Front, Transverse",37.0,Diesel,Sedan,Manual
+Maruti Suzuki,Dzire,821613,1197,4.0,"Front, Transverse",37.0,Petrol,Sedan,Manual
+Maruti Suzuki,Dzire,779113,1197,4.0,"Front, Transverse",37.0,Petrol,Sedan,Automatic
+Maruti Suzuki,Dzire,868613,1197,4.0,"Front, Transverse",37.0,Petrol,Sedan,Automatic
+Maruti Suzuki,Dzire,906122,1248,4.0,"Front, Transverse",37.0,Diesel,Sedan,Manual
+Maruti Suzuki,Dzire,804622,1248,4.0,"Front, Transverse",37.0,Diesel,Sedan,Automatic
+Maruti Suzuki,Dzire,952622,1248,4.0,"Front, Transverse",37.0,Diesel,Sedan,Automatic
+Ford,Freestyle,676400,1498,4.0,"Front, Transverse",40.0,Diesel,Crossover,Manual
+Ford,Freestyle,790900,1498,4.0,"Front, Transverse",40.0,Diesel,Hatchback,Manual
+Ford,Freestyle,836400,1498,4.0,"Front, Transverse",40.0,Diesel,Hatchback,Manual
+Ford,Freestyle,591400,1194,3.0,"Front, Transverse",42.0,Petrol,Hatchback,Manual
+Ford,Freestyle,721400,1194,3.0,"Front, Transverse",42.0,Petrol,Hatchback,Manual
+Ford,Freestyle,756400,1194,3.0,"Front, Transverse",42.0,Petrol,Hatchback,Manual
+Ford,Freestyle,681400,1194,3.0,"Front, Transverse",42.0,Petrol,Crossover,Manual
+Ford,Freestyle,745900,1498,3.0,"Front, Transverse",42.0,Diesel,Crossover,Manual
+Volkswagen,Ameo,711500,1498,0.0,"Front, Longitudinal",45.0,Diesel,Sedan,Manual
+Volkswagen,Ameo,810500,1498,0.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Volkswagen,Ameo,999900,1498,0.0,"Front, Longitudinal",45.0,Diesel,Sedan,Automatic
+Volkswagen,Ameo,925500,1498,0.0,"Front, Longitudinal",45.0,Diesel,Sedan,Manual
+Volkswagen,Ameo,594000,999,3.0,"Front, Transverse",45.0,Petrol,Sedan,Manual
+Volkswagen,Ameo,665000,999,3.0,"Front, Transverse",45.0,Petrol,Sedan,Manual
+Volkswagen,Ameo,799900,999,3.0,"Front, Transverse",45.0,Petrol,Sedan,Manual
+Volkswagen,Ameo,999900,1498,0.0,"Front, Longitudinal",45.0,Diesel,Sedan,Automatic
+Ford,Aspire,598500,1194,4.0,"Front, Transverse",42.0,Petrol,Sedan,Manual
+Ford,Aspire,697400,1194,4.0,"Front, Transverse",42.0,Petrol,Sedan,Manual
+Ford,Aspire,663400,1194,4.0,"Front, Transverse",42.0,Petrol,Sedan,Manual
+Ford,Aspire,699400,1498,4.0,"Front, Transverse",40.0,Diesel,Sedan,Manual
+Ford,Aspire,737400,1498,4.0,"Front, Transverse",40.0,Diesel,Sedan,Manual
+Ford,Aspire,777400,1498,4.0,"Front, Transverse",40.0,Diesel,Sedan,Manual
+Ford,Aspire,817400,1498,4.0,"Front, Transverse",40.0,Diesel,Sedan,Manual
+Ford,Aspire,862400,1498,4.0,"Front, Transverse",40.0,Diesel,Sedan,Manual
+Ford,Aspire,782400,1194,4.0,"Front, Transverse",42.0,Petrol,Sedan,Manual
+Ford,Aspire,737400,1194,4.0,"Front, Transverse",42.0,Petrol,Sedan,Manual
+Ford,Aspire,758314,1194,4.0,"Front, Transverse",42.0,CNG,Sedan,Manual
+Ford,Aspire,762400,1194,4.0,"Front, Transverse",42.0,Petrol,Sedan,Manual
+Ford,Aspire,842400,1498,4.0,"Front, Transverse",40.0,Diesel,Sedan,Manual
+Toyota,Platinum Etios,627100,1496,4.0,"Front, Transverse",45.0,Petrol,Sedan,Manual
+Toyota,Platinum Etios,718600,1496,4.0,"Front, Transverse",45.0,Petrol,Sedan,Manual
+Toyota,Platinum Etios,734700,1364,4.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Toyota,Platinum Etios,828600,1364,4.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Toyota,Platinum Etios,888400,1364,4.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Toyota,Platinum Etios,778400,1496,4.0,"Front, Longitudinal",45.0,Petrol,Sedan,Manual
+Toyota,Platinum Etios,689600,1496,4.0,"Front, Transverse",45.0,Petrol,Sedan,Manual
+Toyota,Platinum Etios,799600,1364,4.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Toyota,Platinum Etios,913400,1364,4.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Toyota,Platinum Etios,803400,1496,4.0,"Front, Longitudinal",45.0,Petrol,Sedan,Manual
+Toyota,Etios Cross,802000,1496,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Toyota,Etios Cross,650000,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Toyota,Etios Cross,797500,1364,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Toyota,Etios Cross,766000,1364,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Toyota,Etios Cross,668500,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Toyota,Etios Cross,816000,1364,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Mahindra,Verito Vibe,657628,1461,4.0,"Front, Transverse",50.0,Diesel,Hatchback,Manual
+Mahindra,Verito Vibe,685729,1461,4.0,"Front, Transverse",50.0,Diesel,Hatchback,Manual
+Mahindra,Verito Vibe,750428,1461,4.0,"Front, Transverse",50.0,Diesel,Hatchback,Manual
+Fiat,Urban Cross,677618,1248,4.0,"Front, Transverse",45.0,Diesel,Crossover,Manual
+Fiat,Urban Cross,739074,1248,4.0,"Front, Transverse",45.0,Diesel,Crossover,Manual
+Fiat,Urban Cross,977516,1368,4.0,"Front, Transverse",45.0,Petrol,Crossover,Manual
+Fiat,Urban Cross,810211,1248,4.0,"Front, Transverse",45.0,Diesel,Crossover,Manual
+Toyota,Glanza,721900,1197,4.0,"Front, Longitudinal",37.0,Petrol,Hatchback,Manual
+Toyota,Glanza,758200,1197,4.0,"Front, Longitudinal",37.0,Petrol,Hatchback,Manual
+Toyota,Glanza,829900,1197,4.0,"Front, Longitudinal",37.0,Petrol,Hatchback,CVT
+Toyota,Glanza,890200,1197,4.0,"Front, Longitudinal",37.0,Petrol,Hatchback,CVT
+Toyota,Glanza,697900,1197,4.0,"Front, Longitudinal",37.0,Petrol,Hatchback,Manual
+Fiat,Avventura,796132,1248,4.0,"Front, Transverse",45.0,Diesel,Crossover,Manual
+Fiat,Avventura,711801,1248,4.0,"Front, Transverse",45.0,Diesel,Crossover,Manual
+Fiat,Avventura,876341,1248,4.0,"Front, Transverse",45.0,Diesel,Crossover,Manual
+Honda,Jazz,745000,1199,4.0,"Front, Transverse",40.0,Petrol,Hatchback,Manual
+Honda,Jazz,909000,1199,4.0,"Front, Transverse",40.0,Petrol,Hatchback,Automatic
+Honda,Jazz,789000,1199,4.0,"Front, Transverse",40.0,Petrol,Hatchback,Manual
+Honda,Jazz,865000,1199,4.0,"Front, Transverse",40.0,Petrol,Hatchback,Automatic
+Honda,Jazz,816500,1498,4.0,"Front, Transverse",40.0,Diesel,Hatchback,Manual
+Honda,Jazz,896500,1498,4.0,"Front, Transverse",40.0,Diesel,Hatchback,Manual
+Honda,Jazz,940500,1498,4.0,"Front, Transverse",40.0,Diesel,Hatchback,Manual
+Honda,Jazz,928000,1199,4.0,"Front, Transverse",40.0,Petrol,Hatchback,Automatic
+Jeep,Compass Trailhawk,2680000,1956,4.0,"Front, Longitudinal",60.0,Diesel,SUV,Automatic
+Jeep,Compass Trailhawk,2760000,1956,4.0,"Front, Longitudinal",60.0,Diesel,SUV,Automatic
+Isuzu,Mu-X,2734834,2999,4.0,"Front, Longitudinal",76.0,Diesel,SUV,Automatic
+Isuzu,Mu-X,2931534,2999,4.0,"Front, Longitudinal",76.0,Diesel,SUV,Automatic
+Mahindra,Alturas G4,2770150,2157,4.0,"Front, Transverse",70.0,Diesel,0,Automatic
+Mahindra,Alturas G4,3070150,2157,4.0,"Front, Transverse",70.0,Diesel,SUV,Automatic
+Volkswagen,Tiguan,2814500,1968,4.0,0,71.0,Diesel,SUV,Automatic
+Volkswagen,Tiguan,3153500,1968,4.0,0,71.0,Diesel,SUV,Automatic
+Honda,Cr-V,2827001,1997,4.0,"Front, Transverse",57.0,Petrol,SUV,Automatic
+Honda,Cr-V,3067001,1597,0.0,"Front, Transverse",57.0,Diesel,SUV,Automatic
+Honda,Cr-V,3277001,1597,0.0,"Front, Longitudinal",57.0,Diesel,SUV,Automatic
+Skoda,Superb Sportline,2899599,1798,4.0,"Front, Transverse",66.0,Petrol,Sedan,Automatic
+Skoda,Superb Sportline,3149599,1968,4.0,"Front, Transverse",66.0,Diesel,Sedan,Automatic
+Audi,A3,3021200,1968,4.0,"Front, Transverse",50.0,Diesel,Sedan,Automatic
+Audi,A3,3221200,1968,4.0,"Front, Transverse",50.0,Diesel,Sedan,Automatic
+Audi,A3,2920750,1395,4.0,"Front, Transverse",50.0,Petrol,Sedan,Automatic
+Audi,A3,3120750,1395,4.0,"Front, Transverse",50.0,Petrol,Sedan,Automatic
+Mercedes,Mercedes-Benz B-Class,2988311,1595,4.0,"Front, Transverse",50.0,Petrol,MPV,Automatic
+Mercedes,Mercedes-Benz B-Class,3089851,2143,4.0,"Front, Transverse",50.0,Diesel,MPV,Automatic
+Mercedes,Mercedes-Benz B-Class,3198662,1595,4.0,"Front, Transverse",50.0,Petrol,MPV,Automatic
+Mercedes,Mercedes-Benz B-Class,3303282,2143,4.0,"Front, Transverse",50.0,Diesel,MPV,Automatic
+Mercedes,Mercedes-Benz Cla-Class,3599000,1991,4.0,"Front, Transverse",56.0,Petrol,Sedan,Automatic
+Mercedes,Mercedes-Benz Cla-Class,3172000,2143,4.0,"Front, Transverse",56.0,Diesel,Sedan,Automatic
+Mercedes,Mercedes-Benz Cla-Class,3699000,2143,4.0,"Front, Transverse",56.0,Diesel,Sedan,Automatic
+Skoda,Kodiaq,3299599,1968,4.0,"Front, Transverse",66.0,Diesel,SUV,Automatic
+Skoda,Kodiaq,3678599,1968,4.0,"Front, Transverse",66.0,Diesel,SUV,Automatic
+Skoda,Kodiaq,3299599,1968,4.0,"Front, Transverse",66.0,Diesel,SUV,Automatic
+Dc,Avanti,3407407,2000,4.0,"Rear Mid, Transverse",60.0,Petrol,Coupe,Manual
+Audi,Q3,3677200,1968,4.0,"Front, Transverse",64.0,Diesel,SUV,Manual
+Audi,Q3,3992200,1968,4.0,"Front, Transverse",64.0,Diesel,SUV,Automatic
+Audi,Q3,4361000,1968,4.0,"Front, Transverse",64.0,Diesel,SUV,Automatic
+Audi,Q3,3496750,1395,4.0,"Front, Transverse",64.0,Petrol,SUV,Automatic
+Mini,Cooper 5 Door,3600000,1496,3.0,"Front, Transverse",44.0,Petrol,Hatchback,Automatic
+Mini,Convertible,3830000,1998,4.0,"Front, Transverse",44.0,Petrol,Convertible,Automatic
+Volvo,Xc40,3990000,1969,5.0,"Front, Longitudinal",0.0,Diesel,SUV,Automatic
+Volvo,Xc40,4390000,1969,5.0,"Front, Longitudinal",0.0,Diesel,SUV,Automatic
+Volvo,Xc40,3990000,1969,5.0,"Front, Longitudinal",54.0,Petrol,SUV,Automatic
+Mini,Clubman,4120000,1998,4.0,"Front, Longitudinal",0.0,Petrol,Hatchback,Manual
+Audi,A4,4149000,1395,4.0,"Front, Longitudinal",54.0,Petrol,Sedan,DCT
+Audi,A4,4507000,1395,4.0,"Front, Longitudinal",54.0,Petrol,Sedan,DCT
+Mini,John Cooper Works,4350000,1998,4.0,"Front, Transverse",44.0,Petrol,"Sports, Hatchback",Automatic
+Jaguar,Xe,4498000,1997,4.0,"Front, Transverse",61.0,Petrol,Sedan,Automatic
+Jaguar,Xe,4498000,1999,4.0,"Front, Transverse",56.0,Diesel,Sedan,Automatic
+Jaguar,Xe,4633000,1999,4.0,"Front, Transverse",56.0,Diesel,Sedan,Automatic
+Jaguar,Xe,4633000,1997,4.0,"Front, Transverse",61.0,Petrol,Sedan,Automatic
+Jaguar,Xf,5436329,1999,4.0,"Front, Longitudinal",74.0,Petrol,Sedan,Automatic
+Jaguar,Xf,6073446,1999,4.0,"Front, Longitudinal",82.0,Petrol,Sedan,Automatic
+Jaguar,Xf,6138811,1999,4.0,"Front, Longitudinal",83.0,Diesel,Sedan,Automatic
+Jaguar,Xf,5506622,1999,4.0,"Front, Longitudinal",66.0,Diesel,Sedan,Automatic
+Jaguar,Xf,4977080,1999,4.0,"Front, Longitudinal",66.0,Diesel,Sedan,Automatic
+Audi,A3 Cabriolet,5038000,1395,4.0,"Front, Longitudinal",50.0,Petrol,Convertible,Automatic
+Audi,A6,5442200,1984,4.0,"Front, Longitudinal",73.0,Petrol,Sedan,Automatic
+Audi,A6,5942200,1984,4.0,"Front, Longitudinal",73.0,Petrol,Sedan,Automatic
+Bmw,X3,5930000,1995,4.0,"Front, Longitudinal",67.0,Diesel,SUV,Automatic
+Bmw,X3,5880000,1998,4.0,"Front, Longitudinal",67.0,Petrol,SUV,Automatic
+Bmw,X3,5600000,1995,4.0,"Front, Longitudinal",67.0,Diesel,SUV,Automatic
+Land Rover,Discovery Sport,5706000,1999,4.0,"Front, Transverse",70.0,Diesel,SUV,Automatic
+Land Rover,Discovery Sport,6089000,1999,4.0,"Front, Transverse",70.0,Diesel,SUV,Automatic
+Volvo,S90,5890000,1969,4.0,"Front, Longitudinal",0.0,Diesel,Sedan,Automatic
+Audi,S5,7243000,2995,6.0,"Front, Longitudinal",58.0,Petrol,Sedan,Automatic
+Bmw,X5,7330000,2993,6.0,"Front, Longitudinal",0.0,Diesel,SUV,Automatic
+Bmw,X5,8290000,2993,6.0,"Front, Longitudinal",0.0,Diesel,SUV,Automatic
+Bmw,X5,8290000,2998,6.0,"Front, Longitudinal",0.0,Petrol,SUV,Automatic
+Ford,Mustang,7462000,4951,8.0,"Front, Longitudinal",60.9,Petrol,"Sedan, Coupe",Automatic
+Jeep,Grand Cherokee,7882867,2987,6.0,"Front, Longitudinal",93.5,Diesel,SUV,Automatic
+Jeep,Grand Cherokee,8931819,2987,6.0,"Front, Longitudinal",93.5,Diesel,SUV,Automatic
+Jeep,Grand Cherokee,11400000,6417,8.0,"Front, Longitudinal",93.5,Petrol,SUV,Automatic
+Jeep,Grand Cherokee,7515000,3604,6.0,"Front, Longitudinal",93.5,Petrol,SUV,Automatic
+Mercedes,Mercedes-Benz E-Class Cabriolet,7711338,2996,6.0,"Front, Longitudinal",80.0,Petrol,Convertible,0
+Bmw,M2 Competition,8180000,2979,6.0,"Front, Longitudinal",52.0,Petrol,Coupe,Automatic
+Porsche,718,8995000,1988,4.0,"Front, Longitudinal",54.0,Petrol,Convertible,Automatic
+Porsche,718,8595000,1988,4.0,"Front, Longitudinal",54.0,Petrol,Coupe,Automatic
+Mercedes,Mercedes-Benz Gls,8820000,2987,6.0,"Front, Longitudinal",100.0,Diesel,SUV,Automatic
+Mercedes,Mercedes-Benz Gls,19199181,5461,8.0,"Front, Longitudinal",80.0,Petrol,SUV,Automatic
+Mercedes,Mercedes-Benz Gls,8776900,2996,8.0,"Front, Longitudinal",80.0,Petrol,SUV,Automatic
+Mercedes,Mercedes-Benz Gls,8690000,2996,8.0,"Front, Longitudinal",80.0,Petrol,SUV,Automatic
+Mercedes,Mercedes-Benz Gls,8690000,2987,6.0,"Front, Longitudinal",100.0,Diesel,SUV,Automatic
+Toyota,Land Cruiser Prado,9630000,2982,4.0,"Front, Longitudinal",87.0,Diesel,SUV,Automatic
+Lexus,Rx 450H,9900000,3456,6.0,"Front, Transverse",65.0,Petrol,SUV,Automatic
+Audi,Rs5,11141200,2894,8.0,"Front, Transverse",58.0,Petrol,Coupe,Automatic
+Bmw,7-Series,12290000,2993,6.0,"Front, Longitudinal",78.0,Diesel,Sedan,Automatic
+Bmw,7-Series,13200000,2993,6.0,"Front, Longitudinal",78.0,Diesel,Sedan,Automatic
+Bmw,7-Series,13510000,2993,6.0,"Front, Longitudinal",78.0,Diesel,Sedan,Automatic
+Bmw,7-Series,13510000,2998,6.0,"Front, Longitudinal",78.0,Petrol,Sedan,Automatic
+Bmw,7-Series,16500000,2998,6.0,"Front, Longitudinal",46.0,Hybrid,Sedan,Automatic
+Bmw,7-Series,24250000,6592,12.0,"Front, Longitudinal",78.0,Petrol,Sedan,Automatic
+Audi,Q8,13359500,2995,4.0,"Front, Longitudinal",85.0,Petrol,SUV,Automatic
+Mercedes,Mercedes-Benz S-Class,13558438,2987,6.0,"Front, Longitudinal",90.0,Diesel,Sedan,Automatic
+Mercedes,Mercedes-Benz S-Class,13976653,2996,6.0,"Front, Longitudinal",70.0,Petrol,Sedan,Automatic
+Mercedes,Mercedes-Benz S-Class,25500000,3982,8.0,"Front, Longitudinal",80.0,Petrol,Coupe,Automatic
+Maserati,Levante,14512054,2987,6.0,"Front, Longitudinal",80.0,Diesel,SUV,Automatic
+Maserati,Levante,14863774,2979,6.0,"Front, Longitudinal",80.0,Diesel,SUV,Automatic
+Maserati,Levante,15383399,2979,6.0,"Front, Longitudinal",80.0,Diesel,SUV,Automatic
+Mercedes,Mercedes-Benz G-Class,21875136,3982,8.0,"Front, Longitudinal",96.0,Petrol,SUV,Automatic
+Mercedes,Mercedes-Benz G-Class,15000000,2925,6.0,"Front, Longitudinal",100.0,Diesel,SUV,Automatic
+Audi,A8 L,15600000,2995,8.0,"Front, Longitudinal",82.0,Petrol,Sedan,Automatic
+Maserati,Granturismo,17229579,4691,8.0,"Front, Longitudinal",86.0,Petrol,Coupe,Automatic
+Maserati,Quattroporte,17900000,2987,6.0,"Front, Longitudinal",70.0,Diesel,Sports,Automatic
+Lexus,Lc 500H,19600000,3456,6.0,"Front, Transverse",82.0,Hybrid,Coupe,Automatic
+Mercedes,Mercedes-Benz Maybach,27308312,5980,12.0,"Front, Longitudinal",80.0,Petrol,Sedan,Automatic
+Mercedes,Mercedes-Benz Maybach,19890000,4663,8.0,"Front, Longitudinal",80.0,Petrol,Sedan,Automatic
+Porsche,Panamera,21263000,3996,8.0,"Front, Longitudinal",90.0,Petrol,Sedan,Automatic
+Porsche,Panamera,22613000,3996,8.0,"Front, Longitudinal",90.0,Petrol,Sedan,Automatic
+Porsche,Panamera,21747000,3996,8.0,"Front, Longitudinal",90.0,Petrol,Sedan,Automatic
+Lexus,Lx 450D,23290000,4461,0.0,"Front, Transverse",93.0,Diesel,SUV,Automatic
+Mercedes,Mercedes-Benz S-Class Cabriolet,23491293,4663,8.0,"Front, Longitudinal",80.0,Petrol,Convertible,Automatic
+Audi,R8,27245000,5204,10.0,"Mid, Longitudinal",75.0,Petrol,Coupe,Automatic
+Lamborghini,Urus,30000000,3996,8.0,0,75.0,Petrol,SUV,Automatic
+Bentley,Continental Gt,33791059,5998,12.0,"Front, Longitudinal",90.0,Petrol,Coupe,Automatic
+Ferrari,Portofino,35000000,3855,8.0,"Front, Longitudinal",92.0,Petrol,Convertible,Automatic
+Bentley,Bentayga,45941557,5950,12.0,"Front, Longitudinal",85.0,Petrol,SUV,Automatic
+Bentley,Bentayga,37542069,3996,12.0,"Front, Longitudinal",85.0,Petrol,SUV,Automatic
+Aston Martin,Db 11,40456503,5198,12.0,"Rear, Transverse",80.0,Petrol,Coupe,Automatic
+Ferrari,458 Speciale,42531500,4497,8.0,"Front, Longitudinal",86.0,Petrol,Coupe,Automatic
+Rolls-Royce,Rolls-Royce Ghost Series Ii,46709733,6593,12.0,"Front, Longitudinal",82.5,Petrol,Sedan,Automatic
+Rolls-Royce,Rolls-Royce Ghost Series Ii,53247201,6592,12.0,"Front, Longitudinal",82.5,Petrol,Sedan,Automatic
+Rolls-Royce,Rolls-Royce Wraith,50025840,6592,12.0,"Front, Transverse",83.0,Petrol,Coupe,Automatic
+Bentley,Mulsanne,52571294,6752,8.0,"Front, Longitudinal",90.0,Petrol,Sedan,Automatic
+Rolls-Royce,Rolls-Royce Cullinan,69500000,6750,12.0,"Front, Transverse",0.0,Petrol,SUV,Automatic
+Rolls-Royce,Rolls-Royce Phantom Coupe,77312661,6749,12.0,"Front, Longitudinal",100.0,Petrol,Coupe,Automatic
+Bugatti,Chiron,192142937,7993,16.0,"Mid, Transverse",0.0,Petrol,Sports,Automatic
+Bugatti,Chiron,212155397,7993,16.0,"Mid, Transverse",0.0,Petrol,Sports,Automatic
+Bajaj,Qute (Re60),263000,216,0.0,"Front, Transverse",0.0,Petrol,Hatchback,Manual
+Bajaj,Qute (Re60),283000,216,0.0,"Front, Transverse",0.0,CNG,Hatchback,Manual
+Maruti Suzuki,Alto,294800,796,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Alto,299900,796,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Alto,352900,796,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Alto,357200,796,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Alto,376100,796,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Alto,405570,796,3.0,"Front, Transverse",35.0,CNG + Petrol,Hatchback,Manual
+Maruti Suzuki,Alto,409190,796,3.0,"Front, Transverse",35.0,CNG + Petrol,Hatchback,Manual
+Maruti Suzuki,Alto,389600,796,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,S-Presso,370500,998,3.0,"Front, Transverse",27.0,Petrol,Hatchback,Manual
+Maruti Suzuki,S-Presso,376500,998,3.0,"Front, Transverse",27.0,Petrol,Hatchback,Manual
+Maruti Suzuki,S-Presso,409000,998,3.0,"Front, Transverse",27.0,Petrol,Hatchback,Manual
+Maruti Suzuki,S-Presso,415000,998,3.0,"Front, Transverse",27.0,Petrol,Hatchback,Manual
+Maruti Suzuki,S-Presso,432500,998,3.0,"Front, Transverse",27.0,Petrol,Hatchback,Manual
+Maruti Suzuki,S-Presso,438500,998,3.0,"Front, Transverse",27.0,Petrol,Hatchback,Manual
+Maruti Suzuki,S-Presso,475500,998,3.0,"Front, Transverse",27.0,Petrol,Hatchback,AMT
+Maruti Suzuki,S-Presso,456000,998,3.0,"Front, Transverse",27.0,Petrol,Hatchback,Manual
+Maruti Suzuki,S-Presso,481500,998,3.0,"Front, Transverse",27.0,Petrol,Hatchback,AMT
+Maruti Suzuki,S-Presso,499000,998,3.0,"Front, Transverse",27.0,Petrol,Hatchback,AMT
+Maruti Suzuki,Celerio,426289,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Celerio,465138,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Celerio,508138,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Automatic
+Maruti Suzuki,Celerio,490924,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Celerio,531279,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Celerio,530000,998,3.0,"Front, Transverse",35.0,CNG,Hatchback,Manual
+Maruti Suzuki,Celerio,533924,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Automatic
+Maruti Suzuki,Celerio,434659,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Celerio,472257,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Celerio,515257,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Automatic
+Maruti Suzuki,Celerio,543279,998,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Automatic
+Hyundai,Grand I10 Prime,551530,1120,3.0,"Front, Transverse",43.0,Diesel,Hatchback,Manual
+Hyundai,Grand I10 Prime,568930,1120,3.0,"Front, Transverse",43.0,Diesel,Hatchback,Manual
+Hyundai,Grand I10 Prime,460369,1197,4.0,"Front, Transverse",43.0,Petrol,Hatchback,Manual
+Hyundai,Grand I10 Prime,477511,1197,4.0,"Front, Transverse",43.0,Petrol,Hatchback,Manual
+Hyundai,Grand I10 Prime,545946,1197,4.0,"Front, Transverse",43.0,CNG,Hatchback,Manual
+Hyundai,Grand I10 Prime,528804,1197,4.0,"Front, Transverse",43.0,CNG,Hatchback,Manual
+Mahindra,Kuv100 Nxt,488194,1198,3.0,"Front, Longitudinal",35.0,Petrol,Hatchback,Manual
+Mahindra,Kuv100 Nxt,532184,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Mahindra,Kuv100 Nxt,590798,1198,3.0,"Front, Transverse",35.0,Diesel,Hatchback,Manual
+Mahindra,Kuv100 Nxt,619243,1198,3.0,"Front, Transverse",35.0,Diesel,Hatchback,Manual
+Mahindra,Kuv100 Nxt,667273,1198,3.0,"Front, Transverse",35.0,Diesel,Hatchback,Manual
+Mahindra,Kuv100 Nxt,579645,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Mahindra,Kuv100 Nxt,631144,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Mahindra,Kuv100 Nxt,754548,1198,3.0,"Front, Transverse",35.0,Diesel,Hatchback,Manual
+Mahindra,Kuv100 Nxt,693550,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Mahindra,Kuv100 Nxt,787304,1198,3.0,"Front, Transverse",35.0,Diesel,Hatchback,Manual
+Mahindra,Kuv100 Nxt,701045,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Mahindra,Kuv100 Nxt,794800,1198,3.0,"Front, Transverse",35.0,Diesel,Hatchback,Manual
+Mahindra,Kuv100 Nxt,573250,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Mahindra,Kuv100 Nxt,631146,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Mahindra,Kuv100 Nxt,687175,1198,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Mahindra,Kuv100 Nxt,660832,1198,3.0,"Front, Transverse",35.0,Diesel,Hatchback,Manual
+Mahindra,Kuv100 Nxt,748128,1198,3.0,"Front, Transverse",35.0,Diesel,Hatchback,Manual
+Mahindra,Kuv100 Nxt,780884,1198,3.0,"Front, Transverse",35.0,Diesel,Hatchback,Manual
+Mahindra,Kuv100 Nxt,550155,1198,3.0,"Front, Transverse",35.0,Diesel,Hatchback,Manual
+Mahindra,Kuv100 Nxt,559741,1198,3.0,"Front, Transverse",35.0,Diesel,Hatchback,Manual
+Mahindra,Kuv100 Nxt,524312,1198,3.0,"Front, Longitudinal",35.0,Petrol,Hatchback,Manual
+Mahindra,Kuv100 Nxt,542913,1198,3.0,"Front, Longitudinal",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Swift,519000,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Swift,619000,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Swift,666000,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Automatic
+Maruti Suzuki,Swift,678000,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Swift,725000,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Automatic
+Maruti Suzuki,Swift,758000,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Swift,599000,1248,4.0,"Front, Transverse",37.0,Diesel,Hatchback,Manual
+Maruti Suzuki,Swift,698000,1248,4.0,"Front, Transverse",37.0,Diesel,Hatchback,Manual
+Maruti Suzuki,Swift,745000,1248,4.0,"Front, Transverse",37.0,Diesel,Hatchback,Automatic
+Maruti Suzuki,Swift,757000,1248,4.0,"Front, Transverse",37.0,Diesel,Hatchback,Manual
+Maruti Suzuki,Swift,804000,1248,4.0,"Front, Transverse",37.0,Diesel,Hatchback,Automatic
+Maruti Suzuki,Swift,838000,1248,4.0,"Front, Transverse",37.0,Diesel,Hatchback,Manual
+Maruti Suzuki,Swift,802000,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Automatic
+Maruti Suzuki,Swift,884000,1248,4.0,"Front, Transverse",37.0,Diesel,Hatchback,Automatic
+Tata,Altroz,529000,1199,3.0,"Front, Longitudinal",37.0,Petrol,Hatchback,Manual
+Tata,Altroz,615000,1199,3.0,"Front, Longitudinal",37.0,Petrol,Hatchback,Manual
+Tata,Altroz,684000,1199,3.0,"Front, Longitudinal",37.0,Petrol,Hatchback,Manual
+Tata,Altroz,744000,1199,3.0,"Front, Longitudinal",37.0,Petrol,Hatchback,Manual
+Tata,Altroz,769000,1199,3.0,"Front, Longitudinal",37.0,Petrol,Hatchback,Manual
+Tata,Altroz,699000,1497,4.0,"Front, Longitudinal",37.0,Diesel,Hatchback,Manual
+Tata,Altroz,775000,1497,4.0,"Front, Longitudinal",37.0,Diesel,Hatchback,Manual
+Tata,Altroz,844000,1497,4.0,"Front, Longitudinal",37.0,Diesel,Hatchback,Manual
+Tata,Altroz,904000,1497,4.0,"Front, Longitudinal",37.0,Diesel,Hatchback,Manual
+Tata,Altroz,929000,1497,4.0,"Front, Longitudinal",37.0,Diesel,Hatchback,Manual
+Icml,Extreme,642478,1994,4.0,"Front, Longitudinal",50.0,Diesel,SUV,Manual
+Icml,Extreme,589678,1994,4.0,"Front, Longitudinal",50.0,Diesel,SUV,Manual
+Icml,Extreme,689761,1994,4.0,"Front, Longitudinal",50.0,Diesel,SUV,Manual
+Icml,Extreme,788177,1994,4.0,"Front, Longitudinal",50.0,Diesel,SUV,Manual
+Icml,Extreme,2650777,1994,4.0,"Front, Longitudinal",50.0,Diesel,SUV,Manual
+Icml,Extreme,628072,1994,4.0,"Front, Longitudinal",50.0,Diesel,SUV,Manual
+Icml,Extreme,900967,1994,4.0,"Front, Longitudinal",50.0,Diesel,SUV,Manual
+Icml,Extreme,1465148,1994,4.0,"Front, Longitudinal",50.0,Diesel,SUV,Manual
+Icml,Extreme,552890,1994,4.0,"Front, Longitudinal",50.0,Diesel,SUV,Manual
+Icml,Extreme,927689,1994,4.0,"Front, Longitudinal",50.0,Diesel,SUV,Manual
+Icml,Extreme,835275,1994,4.0,"Front, Longitudinal",50.0,Diesel,SUV,Manual
+Tata,Tigor,575000,1199,3.0,"Front, Transverse",35.0,Petrol,Sedan,Manual
+Tata,Tigor,610000,1199,3.0,"Front, Transverse",35.0,Petrol,Sedan,Manual
+Tata,Tigor,650000,1199,3.0,"Front, Transverse",35.0,Petrol,Sedan,Manual
+Tata,Tigor,699000,1199,3.0,"Front, Transverse",35.0,Petrol,Sedan,Manual
+Tata,Tigor,660000,1199,3.0,"Front, Transverse",35.0,Petrol,Sedan,AMT
+Tata,Tigor,749000,1199,3.0,"Front, Transverse",35.0,Petrol,Sedan,AMT
+Tata,Zest,582287,1193,4.0,"Front, Transverse",44.0,Petrol,Sedan,Manual
+Tata,Zest,702946,1248,4.0,"Front, Transverse",44.0,Diesel,Sedan,Manual
+Tata,Zest,653926,1193,4.0,"Front, Transverse",44.0,Petrol,Sedan,Manual
+Tata,Zest,672641,1193,4.0,"Front, Transverse",44.0,Petrol,Sedan,Manual
+Tata,Zest,732475,1193,4.0,"Front, Transverse",44.0,Petrol,Sedan,Manual
+Tata,Zest,767317,1248,4.0,"Front, Transverse",44.0,Diesel,Sedan,Manual
+Tata,Zest,793898,1248,4.0,"Front, Transverse",44.0,Diesel,Sedan,Manual
+Tata,Zest,855362,1248,4.0,"Front, Transverse",44.0,Diesel,Sedan,Manual
+Tata,Zest,836320,1248,4.0,"Front, Transverse",44.0,Diesel,Sedan,AMT
+Tata,Zest,989000,1248,4.0,"Front, Transverse",44.0,Diesel,Sedan,Automatic
+Tata,Zest,788797,1248,4.0,"Front, Transverse",44.0,Diesel,Sedan,Manual
+Honda,Amaze,763000,1199,4.0,"Front, Transverse",35.0,Petrol,Sedan,Automatic
+Honda,Amaze,705000,1498,4.0,"Front, Transverse",35.0,Diesel,Sedan,Manual
+Honda,Amaze,593000,1199,4.0,"Front, Transverse",35.0,Petrol,Sedan,Manual
+Honda,Amaze,865000,1498,4.0,"Front, Transverse",35.0,Diesel,Sedan,Automatic
+Honda,Amaze,823000,1199,4.0,"Front, Transverse",35.0,Petrol,Sedan,Automatic
+Honda,Amaze,925000,1498,4.0,"Front, Transverse",35.0,Diesel,Sedan,Automatic
+Honda,Amaze,785000,1498,4.0,"Front, Transverse",35.0,Diesel,Sedan,Manual
+Honda,Amaze,893000,1498,4.0,"Front, Transverse",35.0,Diesel,Sedan,Manual
+Honda,Amaze,845000,1498,4.0,"Front, Transverse",35.0,Diesel,Sedan,Manual
+Honda,Amaze,781000,1199,4.0,"Front, Transverse",35.0,Petrol,Sedan,Manual
+Honda,Amaze,733000,1199,4.0,"Front, Transverse",35.0,Petrol,Sedan,Manual
+Honda,Amaze,673000,1198,4.0,"Front, Transverse",35.0,Petrol,Sedan,Manual
+Honda,Amaze,906000,1498,4.0,"Front, Transverse",35.0,Diesel,Sedan,Manual
+Honda,Amaze,794000,1199,4.0,"Front, Transverse",35.0,Petrol,Sedan,Manual
+Honda,Amaze,966000,1498,4.0,"Front, Transverse",35.0,Diesel,Sedan,Automatic
+Honda,Amaze,864000,1199,4.0,"Front, Transverse",35.0,Petrol,Sedan,Automatic
+Honda,Amaze,979300,1498,4.0,"Front, Transverse",35.0,Diesel,Sedan,Automatic
+Honda,Amaze,877300,1199,4.0,"Front, Transverse",35.0,Petrol,Sedan,Automatic
+Honda,Amaze,906300,1498,4.0,"Front, Transverse",35.0,Diesel,Sedan,Manual
+Honda,Amaze,794300,1199,4.0,"Front, Transverse",35.0,Petrol,Sedan,Manual
+Maruti Suzuki,Gypsy,637343,1298,4.0,"Front, Transverse",40.0,Petrol,SUV,Manual
+Maruti Suzuki,Gypsy,622730,1298,4.0,"Front, Transverse",40.0,Petrol,SUV,Manual
+Hyundai,Venue,655000,1197,4.0,"Front, Transverse",45.0,Petrol,SUV,Manual
+Hyundai,Venue,826000,998,4.0,"Front, Transverse",45.0,Petrol,SUV,Manual
+Hyundai,Venue,780000,1397,4.0,"Front, Transverse",0.0,Diesel,SUV,Manual
+Hyundai,Venue,959000,998,4.0,"Front, Transverse",45.0,Petrol,SUV,Manual
+Hyundai,Venue,974000,998,4.0,"Front, Transverse",45.0,Petrol,SUV,Manual
+Hyundai,Venue,1065000,998,4.0,"Front, Transverse",45.0,Petrol,SUV,Manual
+Hyundai,Venue,940000,998,4.0,"Front, Transverse",45.0,Petrol,SUV,DCT
+Hyundai,Venue,1115500,998,4.0,"Front, Transverse",45.0,Petrol,SUV,DCT
+Hyundai,Venue,725000,1197,4.0,"Front, Transverse",45.0,Petrol,SUV,Manual
+Hyundai,Venue,850000,1397,4.0,"Front, Transverse",0.0,Diesel,SUV,Manual
+Hyundai,Venue,983000,1397,4.0,"Front, Transverse",0.0,Diesel,SUV,Manual
+Hyundai,Venue,998000,1397,4.0,"Front, Transverse",0.0,Diesel,SUV,Manual
+Hyundai,Venue,1089000,1397,4.0,"Front, Transverse",45.0,Diesel,SUV,Manual
+Tata,Nexon,695000,1198,3.0,0,44.0,Petrol,SUV,Manual
+Tata,Nexon,770000,1198,3.0,0,44.0,Petrol,SUV,Manual
+Tata,Nexon,870000,1198,3.0,0,44.0,Petrol,SUV,Manual
+Tata,Nexon,950000,1198,3.0,0,44.0,Petrol,SUV,Manual
+Tata,Nexon,970000,1198,3.0,0,44.0,Petrol,SUV,Manual
+Tata,Nexon,1040000,1198,3.0,0,44.0,Petrol,SUV,Manual
+Tata,Nexon,1060000,1198,3.0,0,44.0,Petrol,SUV,Automatic
+Tata,Nexon,830000,1198,3.0,0,44.0,Petrol,SUV,Automatic
+Tata,Nexon,1010000,1198,3.0,0,44.0,Petrol,SUV,Automatic
+Tata,Nexon,1030000,1198,3.0,0,44.0,Petrol,SUV,Automatic
+Tata,Nexon,1100000,1198,3.0,0,44.0,Petrol,SUV,Automatic
+Tata,Nexon,1120000,1198,3.0,0,44.0,Petrol,SUV,Automatic
+Tata,Nexon,845000,1497,4.0,0,44.0,Diesel,SUV,Manual
+Tata,Nexon,920000,1497,4.0,0,44.0,Diesel,SUV,Manual
+Tata,Nexon,1020000,1497,4.0,0,44.0,Diesel,SUV,Manual
+Tata,Nexon,1100000,1497,4.0,0,44.0,Diesel,SUV,Manual
+Tata,Nexon,1120000,1497,4.0,0,44.0,Diesel,SUV,Manual
+Tata,Nexon,1190000,1497,4.0,0,44.0,Diesel,SUV,Manual
+Tata,Nexon,1210000,1497,4.0,0,44.0,Diesel,SUV,Manual
+Tata,Nexon,980000,1497,4.0,0,44.0,Diesel,SUV,Automatic
+Tata,Nexon,1160000,1497,4.0,0,44.0,Diesel,SUV,Automatic
+Tata,Nexon,1180000,1497,4.0,0,44.0,Diesel,SUV,Automatic
+Tata,Nexon,1250000,1497,4.0,0,44.0,Diesel,SUV,Automatic
+Tata,Nexon,1270000,1497,4.0,0,44.0,Diesel,SUV,Automatic
+Fiat,Linea,715860,1368,4.0,"Front, Transverse",45.0,Petrol,Sedan,Manual
+Fiat,Linea,862175,1248,4.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Fiat,Linea,932025,1248,4.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Fiat,Linea,991434,1248,4.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Fiat,Linea,997763,1368,4.0,"Front, Transverse",45.0,Petrol,Sedan,Manual
+Mahindra,Bolero Power Plus,886398,1493,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Mahindra,Bolero Power Plus,851302,1493,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Mahindra,Bolero Power Plus,785656,1493,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Mahindra,Bolero Power Plus,749192,1493,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Mahindra,Bolero Power Plus,859497,2523,4.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Bolero Power Plus,819117,2523,4.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Maruti Suzuki,Vitara Brezza,762742,1248,4.0,"Front, Transverse",48.0,Diesel,SUV,Manual
+Maruti Suzuki,Vitara Brezza,814742,1248,4.0,"Front, Longitudinal",48.0,Diesel,SUV,Manual
+Maruti Suzuki,Vitara Brezza,892243,1248,4.0,"Front, Transverse",48.0,Diesel,SUV,Manual
+Maruti Suzuki,Vitara Brezza,987743,1248,4.0,"Front, Transverse",48.0,Diesel,SUV,Manual
+Maruti Suzuki,Vitara Brezza,1003552,1248,4.0,"Front, Transverse",48.0,Diesel,SUV,Manual
+Maruti Suzuki,Vitara Brezza,1037742,1248,4.0,"Front, Transverse",48.0,Diesel,SUV,Manual
+Maruti Suzuki,Vitara Brezza,864742,1248,4.0,"Front, Longitudinal",48.0,Diesel,SUV,Automatic
+Maruti Suzuki,Vitara Brezza,942243,1248,4.0,"Front, Transverse",48.0,Diesel,SUV,Automatic
+Maruti Suzuki,Vitara Brezza,1059742,1248,4.0,"Front, Transverse",48.0,Diesel,SUV,Automatic
+Hyundai,I20 Active,774035,1197,4.0,"Front, Transverse",40.0,Petrol,Hatchback,Manual
+Hyundai,I20 Active,858536,1197,4.0,"Front, Transverse",40.0,Petrol,Hatchback,Manual
+Hyundai,I20 Active,882298,1197,4.0,"Front, Transverse",40.0,Petrol,Hatchback,Manual
+Hyundai,I20 Active,993393,1396,4.0,"Front, Transverse",40.0,Diesel,Hatchback,Manual
+Ford,Ecosport,791000,1497,3.0,"Front, Transverse",52.0,Petrol,SUV,Manual
+Ford,Ecosport,871000,1497,3.0,"Front, Transverse",52.0,Petrol,SUV,Manual
+Ford,Ecosport,950000,1497,3.0,"Front, Transverse",52.0,Petrol,SUV,Manual
+Ford,Ecosport,1130000,1497,3.0,"Front, Transverse",52.0,Petrol,SUV,Automatic
+Ford,Ecosport,841000,1498,4.0,"Front, Transverse",52.0,Diesel,SUV,Manual
+Ford,Ecosport,921000,1498,4.0,"Front, Transverse",52.0,Diesel,SUV,Manual
+Ford,Ecosport,999900,1498,4.0,"Front, Transverse",52.0,Diesel,SUV,Manual
+Ford,Ecosport,1090000,1498,4.0,"Front, Transverse",52.0,Diesel,SUV,Manual
+Ford,Ecosport,999900,1497,4.0,"Front, Transverse",52.0,Petrol,SUV,Manual
+Ford,Ecosport,1145000,1498,3.0,"Front, Transverse",52.0,Diesel,SUV,Manual
+Ford,Ecosport,999900,1497,4.0,"Front, Transverse",52.0,Petrol,SUV,Manual
+Ford,Ecosport,1090000,1498,4.0,"Front, Transverse",52.0,Diesel,SUV,Manual
+Renault,Duster,799990,1498,4.0,"Front, Transverse",50.0,Petrol,SUV,Manual
+Renault,Duster,919990,1498,4.0,"Front, Transverse",50.0,Petrol,SUV,Manual
+Renault,Duster,999990,1498,4.0,"Front, Transverse",50.0,Petrol,SUV,CVT
+Renault,Duster,929990,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Manual
+Renault,Duster,999990,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Manual
+Renault,Duster,1119990,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Automatic
+Renault,Duster,1209990,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Automatic
+Renault,Duster,1249990,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Automatic
+Renault,Duster,1249990,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Automatic
+Hyundai,Verna,999900,1591,4.0,"Front, Transverse",45.0,Petrol,Sedan,Manual
+Hyundai,Verna,1172544,1582,4.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Hyundai,Verna,1301881,1582,4.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Hyundai,Verna,1172999,1591,4.0,"Front, Longitudinal",45.0,Petrol,Sedan,Manual
+Hyundai,Verna,1328545,1582,4.0,"Front, Transverse",45.0,Diesel,Sedan,Automatic
+Hyundai,Verna,1287999,1591,4.0,"Front, Longitudinal",45.0,Petrol,Sedan,Automatic
+Hyundai,Verna,933182,1396,4.0,"Front, Transverse",45.0,Petrol,Sedan,Manual
+Hyundai,Verna,817867,1396,4.0,"Front, Transverse",45.0,Petrol,Sedan,Manual
+Hyundai,Verna,1178894,1591,4.0,"Front, Longitudinal",45.0,Petrol,Sedan,Manual
+Hyundai,Verna,1162875,1591,4.0,"Front, Longitudinal",45.0,Petrol,Sedan,Automatic
+Hyundai,Verna,1407871,1582,4.0,"Front, Transverse",45.0,Diesel,Sedan,Automatic
+Hyundai,Verna,942867,1396,4.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Hyundai,Verna,999900,1396,4.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Mahindra,Xuv300,830127,1197,0.0,"Front, Transverse",42.0,Petrol,SUV,Manual
+Mahindra,Xuv300,915128,1197,0.0,"Front, Transverse",42.0,Petrol,SUV,Manual
+Mahindra,Xuv300,1060129,1197,0.0,"Front, Transverse",42.0,Petrol,SUV,Manual
+Mahindra,Xuv300,1184129,1197,0.0,"Front, Transverse",42.0,Petrol,SUV,Manual
+Mahindra,Xuv300,869131,1497,0.0,"Front, Transverse",42.0,Diesel,SUV,Manual
+Mahindra,Xuv300,950131,1497,0.0,"Front, Transverse",42.0,Diesel,SUV,Manual
+Mahindra,Xuv300,1095129,1497,0.0,"Front, Transverse",42.0,Diesel,SUV,Manual
+Mahindra,Xuv300,1214130,1497,0.0,"Front, Transverse",42.0,Diesel,SUV,Manual
+Mahindra,Xuv300,1149800,1497,0.0,"Front, Transverse",42.0,Diesel,SUV,Automatic
+Mahindra,Xuv300,1269131,1497,0.0,"Front, Transverse",42.0,Diesel,SUV,Automatic
+Mahindra,Xuv300,999000,1497,4.0,"Front, Transverse",42.0,Diesel,SUV,AMT
+Renault,Lodgy,863299,1461,4.0,"Front, Transverse",50.0,Diesel,MUV,Manual
+Renault,Lodgy,964199,1461,4.0,"Front, Transverse",50.0,Diesel,MUV,Manual
+Renault,Lodgy,1211599,1461,4.0,"Front, Transverse",50.0,Diesel,MUV,Manual
+Renault,Lodgy,1211599,1461,4.0,"Front, Transverse",50.0,Diesel,MUV,Manual
+Renault,Lodgy,1053899,1461,4.0,"Front, Transverse",50.0,Diesel,MUV,Manual
+Renault,Lodgy,1130099,1461,4.0,"Front, Transverse",50.0,Diesel,MUV,Manual
+Renault,Lodgy,964199,1461,4.0,"Front, Transverse",50.0,Diesel,MUV,Manual
+Volkswagen,Vento,876500,1598,4.0,"Front, Transverse",55.0,Petrol,Sedan,Manual
+Volkswagen,Vento,999900,1598,4.0,"Front, Transverse",55.0,Petrol,Sedan,Manual
+Volkswagen,Vento,999900,1598,4.0,"Front, Transverse",55.0,Petrol,Sedan,Manual
+Volkswagen,Vento,1197500,1197,4.0,"Front, Transverse",55.0,Petrol,Sedan,Automatic
+Volkswagen,Vento,1449500,1197,4.0,"Front, Transverse",55.0,Petrol,Sedan,Automatic
+Volkswagen,Vento,958500,1498,4.0,"Front, Transverse",55.0,Diesel,Sedan,Manual
+Volkswagen,Vento,999900,1498,4.0,"Front, Transverse",55.0,Diesel,Sedan,Manual
+Volkswagen,Vento,1210500,1498,4.0,"Front, Longitudinal",55.0,Diesel,Sedan,Manual
+Volkswagen,Vento,1336500,1498,4.0,"Front, Transverse",55.0,Diesel,Sedan,Automatic
+Volkswagen,Vento,1317500,1498,4.0,"Front, Transverse",55.0,Diesel,Sedan,Automatic
+Volkswagen,Vento,1449500,1498,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Volkswagen,Vento,1317500,1197,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Automatic
+Mahindra,E2O Plus,881425,0,0.0,"Front, Transverse",0.0,Electric,Hatchback,Automatic
+Mahindra,E2O Plus,957177,0,0.0,"Front, Transverse",0.0,Electric,Hatchback,Automatic
+Tata,Tigor Ev,960868,0,0.0,0,35.0,Electric,Sedan,Automatic
+Tata,Tigor Ev,975868,0,0.0,0,35.0,Electric,Sedan,Automatic
+Tata,Tigor Ev,944175,0,0.0,0,35.0,Electric,Sedan,Automatic
+Honda,Brv,952900,1497,4.0,"Front, Transverse",42.0,Petrol,SUV,Manual
+Honda,Brv,1052900,1497,4.0,"Front, Transverse",42.0,Petrol,SUV,Manual
+Honda,Brv,1167900,1497,4.0,"Front, Transverse",42.0,Petrol,SUV,Manual
+Honda,Brv,1271900,1497,4.0,"Front, Transverse",42.0,Petrol,SUV,Manual
+Honda,Brv,1285900,1497,4.0,"Front, Transverse",42.0,Petrol,SUV,Automatic
+Honda,Brv,1187900,1498,4.0,"Front, Transverse",42.0,Diesel,SUV,Manual
+Honda,Brv,1273900,1498,4.0,"Front, Transverse",42.0,Diesel,SUV,Manual
+Honda,Brv,1382900,1498,4.0,"Front, Transverse",42.0,Diesel,SUV,Manual
+Mahindra,Thar,959860,2498,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Mahindra,Thar,999148,2498,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Mahindra,Thar,974860,2498,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Force,Gurkha,999000,2596,4.0,"Front, Longitudinal",63.0,Diesel,SUV,Manual
+Force,Gurkha,1075000,2596,4.0,"Front, Longitudinal",63.0,Diesel,SUV,Manual
+Force,Gurkha,1299000,2149,4.0,"Front, Longitudinal",63.0,Diesel,SUV,Manual
+Force,Gurkha,1330000,2149,4.0,"Front, Longitudinal",63.0,Diesel,SUV,Manual
+Force,Gurkha,975000,2596,4.0,"Front, Longitudinal",63.0,Diesel,SUV,Manual
+Force,Gurkha,1225000,2596,4.0,"Front, Longitudinal",63.0,Diesel,SUV,Manual
+Maruti Suzuki,Xl6,984689,1462,4.0,"Front, Transverse",45.0,Petrol,MPV,Manual
+Maruti Suzuki,Xl6,1041189,1462,4.0,"Front, Transverse",45.0,Petrol,MPV,Manual
+Maruti Suzuki,Xl6,1094689,1462,4.0,"Front, Transverse",45.0,Petrol,MPV,Automatic
+Maruti Suzuki,Xl6,1151189,1462,4.0,"Front, Transverse",45.0,Petrol,MPV,Automatic
+Fiat,Abarth Avventura,989219,1368,4.0,"Front, Transverse",0.0,Petrol,Crossover,Manual
+Mahindra,Tuv300 Plus,992748,2179,3.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Tuv300 Plus,1029650,2179,3.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Tuv300 Plus,1142157,2179,3.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Marazzo,999900,1497,4.0,"Front, Transverse",45.0,Diesel,MPV,Manual
+Mahindra,Marazzo,1156471,1497,4.0,"Front, Transverse",45.0,Diesel,MPV,Manual
+Mahindra,Marazzo,1308592,1497,4.0,"Front, Transverse",45.0,Diesel,MPV,Manual
+Mahindra,Marazzo,1468440,1497,4.0,"Front, Transverse",45.0,Diesel,MPV,Manual
+Mahindra,Marazzo,999900,1497,4.0,"Front, Transverse",45.0,Diesel,MPV,Manual
+Mahindra,Marazzo,1164569,1497,4.0,"Front, Transverse",45.0,Diesel,MPV,Manual
+Mahindra,Marazzo,1316690,1497,4.0,"Front, Transverse",45.0,Diesel,MPV,Manual
+Mahindra,Marazzo,1476538,1497,4.0,"Front, Transverse",45.0,Diesel,MPV,Manual
+Mahindra,Scorpio,999994,2523,4.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Scorpio,1236258,2179,4.0,"Front, Longitudinal",80.0,Diesel,SUV,Manual
+Mahindra,Scorpio,1123158,2179,4.0,"Front, Longitudinal",80.0,Diesel,SUV,Manual
+Mahindra,Scorpio,1220030,2179,4.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Scorpio,1330006,2179,4.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Scorpio,1360668,2179,4.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Scorpio,1540081,2179,4.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Scorpio,1663054,2179,4.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Scorpio,1423710,2179,4.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Skoda,Monte Carlo,1425599,1498,4.0,"Front, Transverse",55.0,Diesel,Sedan,Automatic
+Skoda,Monte Carlo,1269599,1598,4.0,"Front, Transverse",55.0,Petrol,Sedan,Automatic
+Skoda,Monte Carlo,1299599,1498,4.0,"Front, Transverse",55.0,Diesel,Sedan,Manual
+Skoda,Monte Carlo,1139599,1598,4.0,"Front, Transverse",55.0,Petrol,Sedan,Manual
+Mahindra,Xuv500,1610180,2179,4.0,"Front, Transverse",70.0,Petrol,SUV,Automatic
+Mahindra,Xuv500,1418313,2179,4.0,"Front, Longitudinal",70.0,Diesel,SUV,Manual
+Mahindra,Xuv500,1539488,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Automatic
+Mahindra,Xuv500,1588943,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Manual
+Mahindra,Xuv500,1710118,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Automatic
+Mahindra,Xuv500,1716319,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Manual
+Mahindra,Xuv500,1837586,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Automatic
+Mahindra,Xuv500,1741319,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Manual
+Mahindra,Xuv500,1862586,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Automatic
+Mahindra,Xuv500,1610180,2179,4.0,"Front, Transverse",70.0,Petrol,SUV,Automatic
+Mahindra,Xuv500,1418313,2179,4.0,"Front, Longitudinal",70.0,Diesel,SUV,Manual
+Mahindra,Xuv500,1539488,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Automatic
+Mahindra,Xuv500,1588943,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Manual
+Mahindra,Xuv500,1710118,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Automatic
+Mahindra,Xuv500,1716319,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Manual
+Mahindra,Xuv500,1837586,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Automatic
+Mahindra,Xuv500,1741319,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Manual
+Mahindra,Xuv500,1862586,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Automatic
+Mahindra,Xuv500,1852488,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Manual
+Mahindra,Xuv500,1973664,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Automatic
+Mahindra,Xuv500,1230924,2179,4.0,"Front, Transverse",70.0,Diesel,SUV,Manual
+Mahindra,E Verito,1293214,72,0.0,0,0.0,Electric,Sedan,Automatic
+Mahindra,E Verito,1267208,72,0.0,0,0.0,Electric,Sedan,Automatic
+Mahindra,E Verito,1303241,72,0.0,0,0.0,Electric,Sedan,Automatic
+Tata,Hexa,1639374,2179,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Tata,Hexa,1929417,2179,0.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Tata,Hexa,1912593,2179,4.0,"Front, Transverse",60.0,Diesel,SUV,Automatic
+Tata,Hexa,1796458,2179,4.0,"Front, Transverse",0.0,Diesel,SUV,Manual
+Tata,Hexa,1371864,2179,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Tata,Hexa,1531377,2179,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Tata,Hexa,1655587,2179,4.0,"Front, Transverse",0.0,Diesel,SUV,Automatic
+Toyota,Innova Crysta,1605000,2393,4.0,"Front, Longitudinal",55.0,Diesel,MUV,Manual
+Toyota,Innova Crysta,1927000,2393,4.0,"Front, Longitudinal",55.0,Diesel,MUV,Manual
+Toyota,Innova Crysta,1610000,2393,4.0,"Front, Longitudinal",55.0,Diesel,MUV,Manual
+Toyota,Innova Crysta,1932000,2393,4.0,"Front, Longitudinal",55.0,Diesel,MUV,Manual
+Toyota,Innova Crysta,2113000,2393,4.0,"Front, Longitudinal",55.0,Diesel,MUV,Manual
+Toyota,Innova Crysta,1620000,2694,4.0,"Front, Longitudinal",55.0,Petrol,MUV,Automatic
+Toyota,Innova Crysta,1615000,2694,4.0,"Front, Longitudinal",55.0,Petrol,MUV,Automatic
+Toyota,Innova Crysta,2103000,2393,4.0,"Front, Longitudinal",55.0,Petrol,MUV,Automatic
+Toyota,Innova Crysta,1807000,2393,4.0,"Front, Longitudinal",55.0,Petrol,MUV,Manual
+Toyota,Innova Crysta,1493000,2755,4.0,"Front, Longitudinal",55.0,Petrol,MUV,Manual
+Toyota,Innova Crysta,1498000,2755,4.0,"Front, Longitudinal",55.0,Petrol,MUV,Manual
+Toyota,Innova Crysta,2097000,2393,4.0,"Front, Longitudinal",55.0,Diesel,MUV,Manual
+Toyota,Innova Crysta,1892000,2393,4.0,"Front, Longitudinal",55.0,Petrol,MUV,Manual
+Toyota,Innova Crysta,2171000,2694,4.0,"Front, Longitudinal",55.0,Petrol,MUV,Automatic
+Toyota,Innova Crysta,1592000,2393,4.0,"Front, Longitudinal",55.0,Diesel,MUV,Manual
+Toyota,Innova Crysta,1587000,2393,4.0,"Front, Longitudinal",55.0,Diesel,MUV,Manual
+Jeep,Compass,1996000,1368,6.0,"Front, Longitudinal",60.0,Petrol,SUV,Automatic
+Jeep,Compass,1560000,1368,6.0,"Front, Longitudinal",60.0,Petrol,SUV,Manual
+Jeep,Compass,2055000,1368,6.0,"Front, Longitudinal",60.0,Petrol,SUV,Automatic
+Jeep,Compass,1661000,1956,6.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Jeep,Compass,1803000,1956,6.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Jeep,Compass,1888000,1956,6.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Jeep,Compass,1973000,1956,6.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Jeep,Compass,2022000,1956,6.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Jeep,Compass,2151000,1956,6.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Jeep,Compass,2199000,1956,6.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Jeep,Compass,2167000,1368,6.0,"Front, Longitudinal",60.0,Petrol,SUV,Automatic
+Jeep,Compass,2133000,1956,6.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Jeep,Compass,2311000,1956,6.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Jeep,Compass,1699000,1956,6.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Jeep,Compass,1599000,1368,6.0,"Front, Longitudinal",60.0,Petrol,SUV,Manual
+Jeep,Compass,1900000,1368,6.0,"Front, Longitudinal",60.0,Petrol,SUV,Automatic
+Jeep,Compass,2070000,1368,6.0,"Front, Longitudinal",60.0,Petrol,SUV,Automatic
+Jeep,Compass,2036300,1956,6.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Jeep,Compass,2214000,1956,6.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Jeep,Compass,2499000,1956,6.0,"Front, Longitudinal",60.0,Diesel,SUV,Automatic
+Jeep,Compass,2196000,1956,6.0,"Front, Longitudinal",60.0,Diesel,SUV,Automatic
+Toyota,Corolla Altis,1645000,1798,4.0,"Front, Transverse",55.0,Petrol,Sedan,Manual
+Toyota,Corolla Altis,1806000,1798,4.0,"Front, Transverse",55.0,Petrol,Sedan,Automatic
+Toyota,Corolla Altis,1882000,1798,4.0,"Front, Transverse",55.0,Petrol,Sedan,Manual
+Toyota,Corolla Altis,1936000,1364,4.0,"Front, Transverse",43.0,Diesel,Sedan,Manual
+Toyota,Corolla Altis,1771000,1364,4.0,"Front, Transverse",43.0,Diesel,Sedan,Manual
+Toyota,Corolla Altis,2019000,1798,4.0,"Front, Transverse",55.0,Petrol,Sedan,Automatic
+Honda,Civic,1793900,1799,4.0,"Front, Transverse",47.0,Petrol,Sedan,Automatic
+Honda,Civic,1944900,1799,4.0,"Front, Transverse",47.0,Petrol,Sedan,Automatic
+Honda,Civic,2124900,1799,4.0,"Front, Transverse",47.0,Petrol,Sedan,Automatic
+Honda,Civic,2054900,1597,4.0,"Front, Transverse",47.0,Diesel,Sedan,Manual
+Honda,Civic,2234900,1597,4.0,"Front, Transverse",47.0,Diesel,Sedan,Manual
+Mg,Zs Ev,2088000,0,0.0,"Front, Longitudinal",0.0,Electric,SUV,Automatic
+Mg,Zs Ev,2358000,0,0.0,"Front, Longitudinal",0.0,Electric,SUV,Automatic
+Kia,Carnival,2495000,2199,4.0,"Front, Longitudinal",0.0,Diesel,MUV,Automatic
+Kia,Carnival,2515000,2199,4.0,"Front, Longitudinal",0.0,Diesel,MUV,Automatic
+Kia,Carnival,2895000,2199,4.0,"Front, Longitudinal",0.0,Diesel,MUV,Automatic
+Kia,Carnival,2995000,2199,4.0,"Front, Longitudinal",0.0,Diesel,MUV,Automatic
+Kia,Carnival,3395000,2199,4.0,"Front, Longitudinal",0.0,Diesel,MUV,Automatic
+Skoda,Superb,2599599,1798,4.0,"Front, Transverse",66.0,Petrol,Sedan,Manual
+Skoda,Superb,2779599,1798,4.0,"Front, Transverse",66.0,Petrol,Sedan,Automatic
+Skoda,Superb,3099599,1798,4.0,"Front, Transverse",66.0,Petrol,Sedan,Automatic
+Skoda,Superb,3349599,1968,4.0,"Front, Transverse",66.0,Diesel,Sedan,Automatic
+Skoda,Superb,3029599,1968,4.0,"Front, Transverse",66.0,Diesel,Sedan,Automatic
+Skoda,Superb,2599599,1798,4.0,"Front, Transverse",66.0,Petrol,Sedan,Automatic
+Skoda,Superb,2849599,1968,4.0,"Front, Transverse",66.0,Diesel,Sedan,Automatic
+Volvo,V40,2769000,1984,5.0,"Front, Transverse",60.0,Diesel,Hatchback,Automatic
+Volvo,V40,3191000,1984,5.0,"Front, Transverse",60.0,Diesel,Hatchback,Automatic
+Toyota,Fortuner,3205000,2755,4.0,"Front, Transverse",80.0,Diesel,SUV,Automatic
+Toyota,Fortuner,3019000,2755,4.0,"Front, Transverse",80.0,Diesel,SUV,Manual
+Toyota,Fortuner,3216000,2755,4.0,"Front, Transverse",80.0,Diesel,SUV,Manual
+Toyota,Fortuner,3395000,2755,4.0,"Front, Transverse",80.0,Diesel,SUV,Automatic
+Toyota,Fortuner,2977000,2694,4.0,"Front, Transverse",80.0,Petrol,SUV,Automatic
+Toyota,Fortuner,2818000,2694,4.0,"Front, Transverse",80.0,Petrol,SUV,Manual
+Toyota,Fortuner,3420000,2755,4.0,"Front, Transverse",80.0,Diesel,SUV,Automatic
+Ford,Endeavour,3470000,3198,5.0,"Front, Transverse",80.0,Diesel,SUV,Automatic
+Ford,Endeavour,3233000,2198,4.0,"Front, Transverse",80.0,Diesel,SUV,Automatic
+Ford,Endeavour,2920000,2198,4.0,"Front, Transverse",80.0,Diesel,SUV,Manual
+Mini,Cooper 3 Door,2990000,1496,3.0,"Front, Longitudinal",44.0,Diesel,Hatchback,Automatic
+Mini,Cooper 3 Door,3420000,1998,4.0,"Front, Longitudinal",44.0,Petrol,Hatchback,Automatic
+Skoda,Kodiaq Scout,3399000,1968,4.0,"Front, Longitudinal",63.0,Diesel,SUV,Automatic
+Bmw,X1,3520000,1995,4.0,"Front, Longitudinal",51.0,Diesel,"Crossover, SUV",Automatic
+Bmw,X1,3930000,1995,4.0,"Front, Longitudinal",51.0,Diesel,"SUV, Crossover",Automatic
+Bmw,X1,4570000,1995,4.0,"Front, Longitudinal",51.0,Diesel,"SUV, Crossover",Automatic
+Bmw,X1,4240000,1995,4.0,"Front, Longitudinal",61.0,Diesel,SUV,Automatic
+Bmw,X1,3830000,1998,4.0,"Front, Longitudinal",51.0,Petrol,"Crossover, SUV",Automatic
+Volvo,S60,5602000,1969,4.0,"Front, Transverse",67.0,Petrol,Sedan,Automatic
+Volvo,S60,3850500,1984,5.0,"Front, Longitudinal",67.5,Diesel,Sedan,Automatic
+Bmw,3-Series,4140000,1995,4.0,"Front, Transverse",40.0,Diesel,Sedan,Automatic
+Bmw,3-Series,4690000,1995,4.0,"Front, Transverse",40.0,Diesel,Sedan,Automatic
+Bmw,3-Series,4790000,1998,4.0,"Front, Transverse",59.0,Petrol,Sedan,Automatic
+Volvo,S60 Cross Country,4426500,2400,5.0,"Front, Transverse",67.0,Diesel,"Sedan, Crossover",Automatic
+Audi,Q5,5021200,1968,4.0,"Front, Transverse",64.0,Diesel,SUV,Automatic
+Audi,Q5,5621200,1968,4.0,"Front, Transverse",64.0,Diesel,SUV,Automatic
+Audi,Q5,5021200,1984,6.0,"Front, Longitudinal",70.0,Petrol,SUV,Automatic
+Audi,Q5,5621200,1984,6.0,"Front, Longitudinal",70.0,Petrol,SUV,Automatic
+Land Rover Rover,Range Evoque,5494000,1999,4.0,"Front, Longitudinal",0.0,Diesel,SUV,Automatic
+Land Rover Rover,Range Evoque,5985000,1999,4.0,"Front, Longitudinal",0.0,Diesel,SUV,Automatic
+Land Rover Rover,Range Evoque,5494000,1997,4.0,"Front, Transverse",0.0,Petrol,SUV,Automatic
+Land Rover Rover,Range Evoque,5985000,1997,4.0,"Front, Transverse",0.0,Petrol,SUV,Automatic
+Mercedes,Mercedes-Benz E-Class,5861062,1991,4.0,"Front, Longitudinal",80.0,Petrol,Sedan,Automatic
+Mercedes,Mercedes-Benz E-Class,7285332,2987,6.0,"Front, Longitudinal",80.0,Diesel,Sedan,Automatic
+Mercedes,Mercedes-Benz E-Class,5964321,2987,6.0,"Front, Longitudinal",80.0,Diesel,Sedan,Automatic
+Mercedes,Mercedes-Benz E-Class,15000000,5461,8.0,"Front, Longitudinal",80.0,Petrol,Sedan,Automatic
+Mercedes,Mercedes-Benz E-Class,5750000,1991,4.0,"Front, Longitudinal",80.0,Petrol,Sedan,Automatic
+Mercedes,Mercedes-Benz E-Class,6150000,1991,4.0,"Front, Longitudinal",80.0,Petrol,Sedan,Automatic
+Mercedes,Mercedes-Benz E-Class,5850000,2987,6.0,"Front, Longitudinal",80.0,Diesel,Sedan,Automatic
+Mercedes,Mercedes-Benz E-Class,6250000,2987,6.0,"Front, Longitudinal",80.0,Diesel,Sedan,Automatic
+Volvo,Xc60,5990000,1969,5.0,"Front, Longitudinal",70.0,Diesel,SUV,Automatic
+Bmw,X4,6060000,1995,4.0,"Front, Transverse",60.0,Diesel,SUV,Automatic
+Bmw,X4,6590000,2993,6.0,"Front, Longitudinal",68.0,Diesel,SUV,Automatic
+Bmw,X4,6350000,1998,6.0,"Front, Longitudinal",68.0,Petrol,SUV,Automatic
+Jeep,Wrangler,6394000,1999,4.0,"Front, Longitudinal",85.0,Petrol,SUV,Automatic
+Mercedes,Mercedes-Benz C-Class Cabriolet,6426497,1991,4.0,"Front, Longitudinal",60.0,Petrol,Convertible,Automatic
+Bmw,Z4 Roadster,6490000,1998,4.0,"Front, Transverse",52.0,Petrol,"Sports, Convertible",Automatic
+Bmw,Z4 Roadster,7890000,2998,6.0,"Front, Longitudinal",52.0,Petrol,"Sports, Convertible",Automatic
+Mercedes,Mercedes-Benz V-Class,6840000,2143,4.0,"Front, Transverse",93.0,Diesel,MUV,Automatic
+Mercedes,Mercedes-Benz V-Class,8190000,2143,4.0,"Front, Transverse",93.0,Diesel,MUV,Automatic
+Mercedes,Mercedes-Benz V-Class,11000000,1950,4.0,"Front, Transverse",70.0,Diesel,MPV,Automatic
+Audi,Q7,7221500,2967,6.0,"Front, Transverse",75.0,Diesel,SUV,Automatic
+Audi,Q7,8021500,2967,6.0,"Front, Transverse",75.0,Diesel,SUV,Automatic
+Audi,Q7,6921500,1984,6.0,"Front, Longitudinal",75.0,Petrol,SUV,Automatic
+Audi,Q7,7621500,1984,6.0,"Front, Longitudinal",75.0,Petrol,SUV,Automatic
+Audi,Q7,8111500,2967,6.0,"Front, Transverse",75.0,Diesel,SUV,Automatic
+Audi,Q7,7711500,1984,6.0,"Front, Longitudinal",75.0,Petrol,SUV,Automatic
+Land Rover Rover,Range Evoque Convertible,6952964,1998,4.0,"Front, Longitudinal",0.0,Petrol,Convertible,Automatic
+Land Rover Rover,Range Velar,7246802,1999,4.0,"Front, Longitudinal",0.0,Diesel,SUV,Automatic
+Land Rover Rover,Range Velar,7246802,1997,4.0,"Front, Transverse",65.0,Petrol,SUV,Automatic
+Mercedes,Mercedes-Benz E-Class All Terrain,7500000,1950,6.0,"Front, Longitudinal",80.0,Diesel,SUV,Automatic
+Volvo,Xc90,8790000,1969,4.0,"Front, Longitudinal",68.0,Diesel,SUV,Automatic
+Volvo,Xc90,8090000,1969,4.0,"Front, Longitudinal",68.0,Diesel,SUV,Automatic
+Volvo,Xc90,13124000,1969,4.0,"Front, Longitudinal",68.0,Hybrid,SUV,Automatic
+Volvo,Xc90,9665000,1969,4.0,"Front, Longitudinal",68.0,Hybrid,SUV,Automatic
+Volvo,Xc90,8491500,1969,4.0,"Front, Longitudinal",68.0,Diesel,SUV,Automatic
+Land Rover Rover,Range Sport,20517853,4999,8.0,0,0.0,Petrol,SUV,Automatic
+Land Rover Rover,Range Sport,8670586,1997,8.0,"Front, Longitudinal",105.0,Petrol,SUV,Automatic
+Land Rover Rover,Range Sport,9448181,1997,8.0,"Front, Longitudinal",105.0,Petrol,SUV,Automatic
+Land Rover Rover,Range Sport,11476911,2995,6.0,"Front, Longitudinal",85.0,Petrol,SUV,Automatic
+Land Rover Rover,Range Sport,15600000,1997,8.0,"Front, Longitudinal",105.0,Petrol,SUV,Automatic
+Land Rover Rover,Range Sport,13228725,2995,6.0,"Front, Longitudinal",85.0,Petrol,SUV,Automatic
+Land Rover Rover,Range Sport,17940227,4999,8.0,0,0.0,Petrol,SUV,Automatic
+Land Rover Rover,Range Sport,10373732,2993,6.0,"Front, Longitudinal",80.0,Diesel,SUV,Automatic
+Land Rover Rover,Range Sport,11913021,2993,6.0,"Front, Longitudinal",80.0,Diesel,SUV,Automatic
+Land Rover Rover,Range Sport,14908985,4367,8.0,"Front, Longitudinal",105.0,Diesel,SUV,Automatic
+Jaguar,Xj,9738609,2993,6.0,"Front, Longitudinal",82.0,Diesel,Sedan,Automatic
+Jaguar,Xj,10725145,2993,6.0,"Front, Longitudinal",83.0,Diesel,Sedan,Automatic
+Jaguar,Xj,11129599,2993,6.0,"Front, Longitudinal",82.0,Diesel,Sedan,Automatic
+Porsche,Cayenne,15806000,2995,6.0,"Front, Transverse",75.0,Hybrid,SUV,Automatic
+Porsche,Cayenne,19210000,3996,6.0,"Front, Transverse",90.0,Petrol,SUV,Automatic
+Porsche,Cayenne,11936000,2995,6.0,"Front, Transverse",75.0,Petrol,SUV,Automatic
+Maserati,Ghibli,13387856,2987,0.0,0,70.0,Diesel,0,Automatic
+Maserati,Ghibli,13881858,2987,0.0,0,70.0,Diesel,0,Automatic
+Maserati,Ghibli,14247814,2987,0.0,0,70.0,Diesel,0,Automatic
+Toyota,Land Cruiser,14699000,4461,8.0,"Front, Longitudinal",93.0,Diesel,SUV,Automatic
+Audi,Rs7,17072000,3993,8.0,"Front, Transverse",75.0,Petrol,"Sedan, Coupe",Automatic
+Land Rover Rover,Range,26037526,4999,8.0,"Front, Longitudinal",105.0,Petrol,SUV,Automatic
+Land Rover Rover,Range,32522000,4999,8.0,"Front, Longitudinal",105.0,Petrol,SUV,Automatic
+Land Rover Rover,Range,19527130,2995,6.0,"Front, Longitudinal",85.0,Petrol,SUV,Automatic
+Land Rover Rover,Range,40499548,4999,8.0,"Front, Longitudinal",65.0,Petrol,SUV,Automatic
+Land Rover Rover,Range,18185267,2993,6.0,"Front, Longitudinal",0.0,Diesel,SUV,Automatic
+Land Rover Rover,Range,19527130,2993,6.0,"Front, Longitudinal",0.0,Diesel,SUV,Automatic
+Land Rover Rover,Range,25174051,4367,8.0,"Front, Longitudinal",0.0,Diesel,SUV,Automatic
+Land Rover Rover,Range,39294685,4367,8.0,"Front, Longitudinal",0.0,Diesel,SUV,Automatic
+Land Rover Rover,Range,23675691,4367,8.0,"Front, Longitudinal",0.0,Diesel,SUV,Automatic
+Land Rover Rover,Range,21398758,2995,6.0,"Front, Longitudinal",85.0,Petrol,SUV,Automatic
+Maserati,Grancabrio,19865675,4691,8.0,"Front, Longitudinal",75.0,Petrol,Convertible,Automatic
+Mercedes,Mercedes-Benz Amg-Gt,21583466,3982,8.0,"Front, Longitudinal",75.0,Petrol,Coupe,Automatic
+Mercedes,Mercedes-Benz Amg-Gt,23264134,3982,8.0,"Front, Longitudinal",75.0,Petrol,Coupe,Automatic
+Mercedes,Mercedes-Benz Amg-Gt,22733626,3982,8.0,"Front, Longitudinal",75.0,Petrol,Coupe,Automatic
+Mercedes,Mercedes-Benz Amg Gt 4-Door Coupe,24200000,0,8.0,"Front, Longitudinal",65.0,Petrol,Coupe,Automatic
+Lamborghini,Huracan,37133704,5204,10.0,"Rear, Transverse",90.0,Petrol,Coupe,Automatic
+Lamborghini,Huracan,32452486,5204,10.0,"Rear, Transverse",90.0,Petrol,Coupe,Automatic
+Lamborghini,Huracan,35150732,5204,10.0,"Rear, Transverse",90.0,Petrol,Coupe,Automatic
+Lamborghini,Huracan,37614126,5204,10.0,"Rear, Transverse",90.0,Petrol,Coupe,Automatic
+Lamborghini,Huracan,35535000,5204,10.0,"Rear, Transverse",90.0,Petrol,Coupe,Automatic
+Lamborghini,Huracan,40742932,5204,10.0,"Rear, Transverse",90.0,Petrol,Coupe,Automatic
+Lamborghini,Huracan,37300000,5204,10.0,"Rear, Transverse",90.0,Petrol,Coupe,Automatic
+Lamborghini,Huracan,41000000,5204,10.0,"Rear, Transverse",0.0,Petrol,Convertible,Automatic
+Lamborghini,Huracan,32200000,5204,10.0,"Rear, Transverse",90.0,Petrol,Coupe,Automatic
+Ferrari,488 Gtb,36761413,3902,8.0,"Front, Longitudinal",78.0,Petrol,Coupe,Automatic
+Ferrari,488 Gtb,39319552,3902,8.0,"Front, Longitudinal",78.0,Petrol,Coupe,Automatic
+Ferrari,Gtc4 Lusso,42000000,3900,8.0,"Front, Longitudinal",91.0,Petrol,Coupe,Automatic
+Ferrari,Gtc4 Lusso,52000000,6262,8.0,"Front, Longitudinal",91.0,Petrol,Coupe,Automatic
+Lamborghini,Aventador,47893943,6498,12.0,"Front, Longitudinal",90.0,Petrol,Convertible,Automatic
+Lamborghini,Aventador,53210327,6498,12.0,"Front, Longitudinal",90.0,Petrol,Convertible,Automatic
+Lamborghini,Aventador,47467700,6498,12.0,"Front, Longitudinal",90.0,Petrol,Coupe,Automatic
+Rolls-Royce,Rolls-Royce Dawn,59216193,6598,12.0,"Front, Longitudinal",80.0,Petrol,Convertible,Automatic
+Rolls-Royce,Rolls-Royce Drophead Coupe,83755383,6749,12.0,"Front, Transverse",100.0,Petrol,Convertible,Automatic
+Maruti Suzuki,Omni,282778,796,3.0,"Front, Longitudinal",35.0,Petrol,MPV,Manual
+Maruti Suzuki,Omni,284485,796,3.0,"Front, Longitudinal",36.0,Petrol,MPV,Manual
+Datsun,Go+,412292,1198,3.0,"Front, Transverse",35.0,Petrol,MPV,Manual
+Datsun,Go+,552656,1198,3.0,"Front, Transverse",35.0,Petrol,MPV,Manual
+Datsun,Go+,574448,1198,3.0,"Front, Transverse",35.0,Petrol,MPV,Manual
+Datsun,Go+,555196,1198,3.0,"Front, Transverse",35.0,Petrol,MPV,Manual
+Datsun,Go+,500575,1198,3.0,"Front, Transverse",35.0,Petrol,MPV,Manual
+Datsun,Go+,593361,1198,3.0,"Front, Transverse",35.0,Petrol,MPV,Manual
+Datsun,Go+,615153,1198,3.0,"Front, Transverse",35.0,Petrol,MPV,Manual
+Datsun,Go+,658361,1198,3.0,"Front, Transverse",35.0,Petrol,MPV,Manual
+Datsun,Go+,680153,1198,3.0,"Front, Transverse",35.0,Petrol,MPV,Manual
+Fiat,Punto Evo Pure,482330,1172,4.0,"Front, Longitudinal",45.0,Petrol,Hatchback,Manual
+Fiat,Punto Evo Pure,575947,1248,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Ford,Figo,523000,1194,4.0,"Front, Transverse",42.0,Petrol,Hatchback,Manual
+Ford,Figo,623000,1498,4.0,"Front, Transverse",40.0,Diesel,Hatchback,Manual
+Ford,Figo,599900,1196,4.0,"Front, Transverse",42.0,Petrol,Hatchback,Manual
+Ford,Figo,699900,1498,4.0,"Front, Transverse",40.0,Diesel,Hatchback,Manual
+Ford,Figo,664900,1194,4.0,"Front, Transverse",42.0,Petrol,Hatchback,Manual
+Ford,Figo,764900,1498,4.0,"Front, Transverse",40.0,Diesel,Hatchback,Manual
+Maruti Suzuki,Baleno,746621,1248,4.0,"Front, Transverse",37.0,Diesel,Hatchback,Manual
+Maruti Suzuki,Baleno,868221,1248,4.0,"Front, Transverse",37.0,Diesel,Hatchback,Manual
+Maruti Suzuki,Baleno,668611,1248,4.0,"Front, Transverse",37.0,Diesel,Hatchback,Manual
+Maruti Suzuki,Baleno,807921,1248,4.0,"Front, Transverse",37.0,Diesel,Hatchback,Manual
+Maruti Suzuki,Baleno,758212,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Baleno,890212,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Automatic
+Maruti Suzuki,Baleno,636612,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Baleno,768612,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Automatic
+Maruti Suzuki,Baleno,558602,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Baleno,697912,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Baleno,733412,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Baleno,789912,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Baleno,829912,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Automatic
+Hyundai,Grand I10,586428,1197,4.0,"Front, Transverse",43.0,Petrol,Hatchback,Manual
+Hyundai,Grand I10,620637,1197,4.0,"Front, Transverse",43.0,Petrol,Hatchback,Manual
+Hyundai,Grand I10,652328,1197,4.0,"Front, Transverse",43.0,Petrol,Hatchback,Automatic
+Hyundai,Grand I10,705538,1197,4.0,"Front, Transverse",43.0,Petrol,Hatchback,Automatic
+Hyundai,Grand I10,640537,1197,4.0,"Front, Transverse",43.0,Petrol,Hatchback,Manual
+Hyundai,Grand I10,653452,1197,4.0,"Front, Transverse",43.0,CNG,Hatchback,Manual
+Fiat,Linea Classic,751203,1248,4.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Fiat,Linea Classic,646336,1368,4.0,"Front, Transverse",45.0,Petrol,Sedan,Manual
+Fiat,Linea Classic,808558,1248,4.0,"Front, Transverse",45.0,Diesel,Sedan,Manual
+Nissan,Sunny,707025,1498,4.0,"Front, Transverse",41.0,Petrol,Sedan,Manual
+Nissan,Sunny,836461,1498,4.0,"Front, Transverse",41.0,Petrol,Sedan,Manual
+Nissan,Sunny,912534,1461,4.0,"Front, Transverse",41.0,Diesel,Sedan,Manual
+Nissan,Sunny,993997,1461,4.0,"Front, Transverse",41.0,Diesel,Sedan,Manual
+Nissan,Sunny,860997,1461,4.0,"Front, Transverse",41.0,Diesel,Sedan,Manual
+Nissan,Sunny,993997,1498,4.0,"Front, Transverse",41.0,Petrol,Sedan,Automatic
+Nissan,Sunny,877285,1461,4.0,"Front, Transverse",41.0,Diesel,Sedan,Manual
+Maruti Suzuki,Ertiga,759000,1462,4.0,"Front, Transverse",45.0,Petrol,MPV,Manual
+Maruti Suzuki,Ertiga,917000,1462,4.0,"Front, Transverse",45.0,Petrol,MPV,Manual
+Maruti Suzuki,Ertiga,936000,1462,4.0,"Front, Transverse",45.0,Petrol,MUV,Automatic
+Maruti Suzuki,Ertiga,971000,1462,4.0,"Front, Transverse",45.0,Petrol,MUV,Manual
+Maruti Suzuki,Ertiga,834000,1462,4.0,"Front, Transverse",45.0,Petrol,MUV,Manual
+Maruti Suzuki,Ertiga,1013000,1462,4.0,"Front, Transverse",45.0,Petrol,MPV,Automatic
+Maruti Suzuki,Ertiga,986689,1498,4.0,"Front, Transverse",45.0,Diesel,MPV,Manual
+Maruti Suzuki,Ertiga,1069689,1498,4.0,"Front, Transverse",45.0,Diesel,MPV,Manual
+Maruti Suzuki,Ertiga,1120689,1498,4.0,"Front, Transverse",45.0,Diesel,MPV,Manual
+Maruti Suzuki,Ertiga,887689,1462,4.0,"Front, Transverse",45.0,CNG + Petrol,MUV,Manual
+Maruti Suzuki,Baleno Rs,788913,998,3.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Honda,Wr-V,1035000,1498,0.0,"Front, Transverse",40.0,Diesel,SUV,Manual
+Honda,Wr-V,925000,1199,4.0,"Front, Transverse",40.0,Petrol,SUV,Manual
+Honda,Wr-V,925000,1498,4.0,"Front, Transverse",40.0,Diesel,SUV,Manual
+Honda,Wr-V,815000,1199,4.0,"Front, Transverse",40.0,Petrol,SUV,Manual
+Honda,Wr-V,916050,1498,4.0,"Front, Transverse",40.0,Diesel,SUV,Manual
+Honda,Wr-V,808050,1199,4.0,"Front, Transverse",40.0,Petrol,SUV,Manual
+Honda,Wr-V,1048050,1498,0.0,"Front, Transverse",40.0,Diesel,SUV,Manual
+Honda,Wr-V,935050,1199,4.0,"Front, Transverse",40.0,Petrol,SUV,Manual
+Honda,Wr-V,995000,1498,0.0,"Front, Transverse",40.0,Diesel,SUV,Manual
+Mahindra,Tuv300,854328,1493,3.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Tuv300,914328,1493,3.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Tuv300,976592,1493,3.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Tuv300,999614,1493,3.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Tuv300,1031943,1493,3.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Tuv300,1022930,1493,3.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Mahindra,Tuv300,1055259,1493,3.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Maruti Suzuki,S-Cross,880689,1248,4.0,"Front, Transverse",48.0,Diesel,Crossover,Manual
+Maruti Suzuki,S-Cross,992689,1248,4.0,"Front, Transverse",48.0,Diesel,Crossover,Manual
+Maruti Suzuki,S-Cross,1043689,1248,4.0,"Front, Transverse",48.0,Diesel,Crossover,Manual
+Maruti Suzuki,S-Cross,1143689,1248,4.0,"Front, Transverse",48.0,Diesel,Crossover,Manual
+Renault,Captur,949999,1498,4.0,"Front, Transverse",50.0,Petrol,SUV,Manual
+Renault,Captur,1049999,1461,4.0,"Front, Longitudinal",50.0,Diesel,SUV,Manual
+Renault,Captur,1299999,1461,4.0,"Front, Longitudinal",50.0,Diesel,SUV,Manual
+Renault,Captur,1199999,1498,4.0,"Front, Transverse",50.0,Petrol,SUV,Manual
+Mahindra,Xylo,963037,2489,4.0,"Front, Longitudinal",55.0,Diesel,SUV,Manual
+Mahindra,Xylo,1004487,2489,4.0,"Front, Longitudinal",55.0,Diesel,SUV,Manual
+Mahindra,Xylo,1031951,2179,4.0,"Front, Transverse",55.0,Diesel,SUV,Manual
+Mahindra,Xylo,1066139,2179,4.0,"Front, Transverse",55.0,Diesel,SUV,Manual
+Mahindra,Xylo,1228335,2179,4.0,"Front, Transverse",55.0,Diesel,SUV,Manual
+Kia,Seltos,989000,1497,4.0,"Front, Longitudinal",60.0,Petrol,SUV,Manual
+Kia,Seltos,1029000,1497,0.0,"Front, Longitudinal",60.0,Petrol,SUV,Manual
+Kia,Seltos,1149000,1497,0.0,"Front, Longitudinal",60.0,Petrol,SUV,Manual
+Kia,Seltos,1309000,1497,0.0,"Front, Longitudinal",60.0,Petrol,SUV,Manual
+Kia,Seltos,1409000,1497,0.0,"Front, Longitudinal",60.0,Petrol,SUV,Automatic
+Kia,Seltos,1034000,1493,0.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Kia,Seltos,1154000,1493,0.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Kia,Seltos,1254000,1493,0.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Kia,Seltos,1354000,1493,0.0,"Front, Longitudinal",60.0,Diesel,SUV,Automatic
+Kia,Seltos,1534000,1493,0.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Kia,Seltos,1634000,1493,0.0,"Front, Longitudinal",60.0,Diesel,SUV,Automatic
+Kia,Seltos,1379000,1353,4.0,"Front, Longitudinal",50.0,Petrol,SUV,Manual
+Kia,Seltos,1529000,1353,4.0,"Front, Longitudinal",50.0,Petrol,SUV,Manual
+Kia,Seltos,1629000,1353,4.0,"Front, Longitudinal",50.0,Petrol,SUV,DCT
+Kia,Seltos,1629000,1353,4.0,"Front, Longitudinal",50.0,Petrol,SUV,Manual
+Kia,Seltos,1414000,1493,0.0,"Front, Longitudinal",60.0,Diesel,SUV,Manual
+Nissan,Terrano,999900,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Manual
+Nissan,Terrano,1464900,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Automatic
+Nissan,Terrano,999900,1598,4.0,"Front, Transverse",50.0,Petrol,SUV,Manual
+Nissan,Terrano,1235700,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Manual
+Nissan,Terrano,1419900,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Manual
+Nissan,Terrano,1235700,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Manual
+Tata,Safari Storme,1109005,2179,4.0,"Front, Longitudinal",63.0,Diesel,SUV,Manual
+Tata,Safari Storme,1335158,2179,4.0,"Front, Longitudinal",63.0,Diesel,SUV,Manual
+Tata,Safari Storme,1479574,2179,4.0,"Front, Longitudinal",63.0,Diesel,SUV,Manual
+Tata,Safari Storme,1643829,2179,4.0,"Front, Longitudinal",63.0,Diesel,SUV,Manual
+Mg,Hector,1248000,1500,4.0,"Front, Transverse",0.0,Petrol,SUV,Manual
+Mg,Hector,1348000,2000,4.0,"Front, Transverse",0.0,Diesel,SUV,Manual
+Mg,Hector,1448000,2000,4.0,"Front, Transverse",0.0,Diesel,SUV,Manual
+Mg,Hector,1588000,2000,4.0,"Front, Transverse",0.0,Diesel,SUV,Manual
+Mg,Hector,1728000,2000,4.0,"Front, Transverse",0.0,Diesel,SUV,Manual
+Mg,Hector,1328000,1500,4.0,"Front, Transverse",0.0,Petrol,SUV,Manual
+Mg,Hector,1388000,1500,4.0,"Front, Transverse",0.0,Hybrid,SUV,Manual
+Mg,Hector,1628000,1500,4.0,"Front, Transverse",0.0,Hybrid,SUV,Manual
+Mg,Hector,1498000,1500,4.0,"Front, Transverse",0.0,Hybrid,SUV,Manual
+Mg,Hector,1568000,1500,4.0,"Front, Transverse",0.0,Petrol,SUV,DCT
+Mg,Hector,1718000,1500,4.0,"Front, Transverse",0.0,Petrol,SUV,DCT
+Tata,Nexon Ev,1399000,0,0.0,"Front, Longitudinal",0.0,Electric,SUV,Automatic
+Tata,Nexon Ev,1499000,0,0.0,"Front, Longitudinal",0.0,Electric,SUV,Automatic
+Tata,Nexon Ev,1599000,0,0.0,"Front, Longitudinal",0.0,Electric,SUV,Automatic
+Hyundai,Elantra,1589000,1999,4.0,"Front, Transverse",50.0,Petrol,Sedan,Manual
+Hyundai,Elantra,1849000,1999,4.0,"Front, Transverse",50.0,Petrol,Sedan,Manual
+Hyundai,Elantra,1949000,1999,4.0,"Front, Transverse",50.0,Petrol,Sedan,AMT
+Hyundai,Elantra,2039000,1999,4.0,"Front, Transverse",50.0,Petrol,Sedan,AMT
+Hyundai,Tucson,2079717,1995,4.0,"Front, Longitudinal",62.0,Diesel,SUV,Manual
+Hyundai,Tucson,1876656,1999,4.0,"Front, Longitudinal",62.0,Petrol,SUV,Manual
+Hyundai,Tucson,2364354,1995,4.0,"Front, Longitudinal",62.0,Diesel,SUV,Automatic
+Hyundai,Tucson,2187384,1999,4.0,"Front, Longitudinal",62.0,Petrol,SUV,Automatic
+Hyundai,Tucson,2697417,1995,4.0,"Front, Longitudinal",62.0,Diesel,SUV,Automatic
+Hyundai,Tucson,2373522,1999,4.0,"Front, Longitudinal",62.0,Petrol,SUV,Automatic
+Hyundai,Tucson,2246749,1999,4.0,"Front, Longitudinal",62.0,Petrol,SUV,Automatic
+Hyundai,Tucson,2423720,1995,4.0,"Front, Longitudinal",62.0,Diesel,SUV,Automatic
+Volkswagen,Passat,3021500,1968,4.0,"Front, Transverse",55.0,Diesel,Sedan,Automatic
+Volkswagen,Passat,3321500,1968,4.0,"Front, Transverse",66.0,Diesel,Sedan,Automatic
+Volkswagen,Passat,2599000,1968,4.0,"Front, Transverse",55.0,Diesel,Sedan,Automatic
+Volkswagen,Passat,2899000,1968,4.0,"Front, Transverse",66.0,Diesel,Sedan,Automatic
+Mercedes,Mercedes-Benz A-Class,2785288,1595,4.0,"Front, Transverse",50.0,Petrol,Hatchback,Automatic
+Mercedes,Mercedes-Benz A-Class,2886871,2143,4.0,"Front, Transverse",50.0,Diesel,Hatchback,Automatic
+Volvo,V40 Cross Country,3283000,1984,5.0,"Front, Longitudinal",60.0,Diesel,Hatchback,Automatic
+Volvo,V40 Cross Country,2962000,1596,4.0,"Front, Longitudinal",50.0,Petrol,Hatchback,Automatic
+Mini,Countryman,3490000,1998,4.0,"Front, Longitudinal",47.0,Petrol,Hatchback,Automatic
+Mini,Countryman,3740000,1998,4.0,"Front, Longitudinal",47.0,Diesel,Hatchback,Automatic
+Mini,Countryman,4140000,1998,4.0,"Front, Longitudinal",47.0,Petrol,Hatchback,Automatic
+Mini,Countryman,4240000,1998,4.0,"Front, Longitudinal",47.0,Petrol,Hatchback,Automatic
+Mercedes,Mercedes-Benz C-Class,4020000,1950,4.0,"Front, Longitudinal",66.0,Diesel,Sedan,Automatic
+Mercedes,Mercedes-Benz C-Class,4670000,1950,4.0,"Front, Longitudinal",66.0,Diesel,Sedan,Automatic
+Mercedes,Mercedes-Benz C-Class,4974750,1950,4.0,"Front, Longitudinal",66.0,Diesel,Sedan,Automatic
+Mercedes,Mercedes-Benz C-Class,7500000,3982,8.0,"Front, Longitudinal",66.0,Petrol,Coupe,Automatic
+Mercedes,Mercedes-Benz C-Class,4090000,1497,4.0,"Front, Longitudinal",66.0,Petrol,Sedan,Automatic
+Mercedes,Mercedes-Benz C-Class,4654000,1497,4.0,"Front, Longitudinal",66.0,Petrol,Sedan,Automatic
+Toyota,Prius,4509000,1798,4.0,"Front, Longitudinal",43.0,Hybrid,Sedan,Automatic
+Lexus,Es,5695000,2487,4.0,"Front, Transverse",0.0,Hybrid,Sedan,Automatic
+Lexus,Nx 300H,6060000,2494,6.0,"Front, Transverse",56.0,Petrol,SUV,Automatic
+Lexus,Nx 300H,5990000,2494,6.0,"Front, Transverse",56.0,Petrol,SUV,Automatic
+Jaguar,F-Pace,6463780,1999,4.0,"Front, Longitudinal",60.0,Diesel,SUV,Automatic
+Jaguar,F-Pace,6422809,1997,4.0,"Front, Longitudinal",60.0,Petrol,SUV,Automatic
+Volvo,V90 Cross Country,6531000,1969,4.0,"Front, Longitudinal",60.0,Diesel,SUV,Automatic
+Audi,A5 Cabriolet,6948200,1968,4.0,"Front, Longitudinal",58.0,Diesel,Convertible,Automatic
+Mercedes,Mercedes-Benz Gle,7370000,1950,4.0,"Front, Longitudinal",93.0,Diesel,SUV,Automatic
+Mercedes,Mercedes-Benz Gle,12500000,2925,6.0,"Front, Longitudinal",93.0,Diesel,SUV,Automatic
+Mercedes,Mercedes-Benz Cls,8470000,1950,4.0,"Front, Transverse",0.0,Diesel,Sedan,Automatic
+Bmw,X7,10490000,2998,6.0,"Front, Longitudinal",80.0,Petrol,SUV,Automatic
+Bmw,X7,10250000,2993,6.0,"Front, Longitudinal",80.0,Diesel,SUV,Automatic
+Bmw,M4,13590000,2979,6.0,"Front, Longitudinal",60.0,Petrol,Coupe,Automatic
+Porsche,911,17420000,2981,6.0,"Rear Mid, Transverse",64.0,Petrol,Coupe,Automatic
+Porsche,911,18844000,2981,6.0,"Rear Mid, Transverse",64.0,Petrol,Convertible,Automatic
+Nissan,Gtr,21240272,3799,6.0,"Front, Longitudinal",74.0,Petrol,Coupe,Automatic
+Aston Martin,Vantage,29500000,3982,8.0,"Front, Longitudinal",73.0,Petrol,Coupe,Automatic
+Aston Martin,Rapide,38845823,5935,12.0,"Mid, Longitudinal",90.5,Petrol,Sedan,Automatic
+Ferrari,812 Superfast,52000000,6496,12.0,"Front, Longitudinal",92.0,Petrol,Coupe,Automatic
+Maruti Suzuki,Alto 800 Tour,354235,796,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Maruti Suzuki,Alto 800 Tour,356559,796,3.0,"Front, Transverse",35.0,Petrol,Hatchback,Manual
+Hyundai,Grand I10 Nios,675090,1186,3.0,"Front, Transverse",37.0,Diesel,Hatchback,Manual
+Hyundai,Grand I10 Nios,504990,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Hyundai,Grand I10 Nios,589610,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Hyundai,Grand I10 Nios,642610,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Automatic
+Hyundai,Grand I10 Nios,643350,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Hyundai,Grand I10 Nios,703350,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Automatic
+Hyundai,Grand I10 Nios,673350,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Hyundai,Grand I10 Nios,718950,1197,4.0,"Front, Transverse",37.0,Petrol,Hatchback,Manual
+Hyundai,Grand I10 Nios,790350,1186,3.0,"Front, Transverse",37.0,Diesel,Hatchback,Automatic
+Hyundai,Grand I10 Nios,804450,1186,3.0,"Front, Transverse",37.0,Diesel,Hatchback,Manual
+Hyundai,Xcent,643769,1197,4.0,"Front, Transverse",43.0,Petrol,Sedan,Manual
+Hyundai,Xcent,733734,1197,4.0,"Front, Longitudinal",43.0,Petrol,Sedan,Automatic
+Hyundai,Xcent,705546,1197,4.0,"Front, Transverse",43.0,Petrol,Sedan,Manual
+Hyundai,Xcent,782346,1197,4.0,"Front, Transverse",43.0,Petrol,Sedan,Manual
+Hyundai,Xcent,742033,1120,3.0,"Front, Transverse",43.0,Diesel,Sedan,Manual
+Hyundai,Xcent,581078,1197,4.0,"Front, Longitudinal",43.0,Petrol,Sedan,Manual
+Hyundai,Xcent,798558,1120,3.0,"Front, Transverse",43.0,Diesel,Sedan,Manual
+Hyundai,Xcent,875358,1120,3.0,"Front, Transverse",43.0,Diesel,Sedan,Manual
+Hyundai,Xcent,673261,1197,4.0,"Front, Transverse",43.0,Diesel,Sedan,Manual
+Nissan,Micra,662880,1198,3.0,"Front, Transverse",41.0,Petrol,Hatchback,Automatic
+Nissan,Micra,781686,1198,3.0,"Front, Transverse",41.0,Petrol,Hatchback,Automatic
+Nissan,Micra,743504,1461,4.0,"Front, Transverse",41.0,Diesel,Hatchback,Manual
+Nissan,Micra,812964,1461,4.0,"Front, Transverse",41.0,Diesel,Hatchback,Manual
+Mahindra,Bolero,942263,2523,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Mahindra,Bolero,917055,2523,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Mahindra,Bolero,860720,2523,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Mahindra,Bolero,815883,2523,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Mahindra,Bolero,773678,2523,4.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Maruti Suzuki,Ciaz,1102689,1248,4.0,"Front, Transverse",43.0,Diesel,Sedan,Manual
+Maruti Suzuki,Ciaz,919689,1248,4.0,"Front, Transverse",43.0,Diesel,Sedan,Manual
+Maruti Suzuki,Ciaz,980689,1248,4.0,"Front, Transverse",43.0,Diesel,Sedan,Manual
+Maruti Suzuki,Ciaz,1062689,1248,4.0,"Front, Transverse",43.0,Diesel,Sedan,Manual
+Maruti Suzuki,Ciaz,819689,1462,4.0,"Front, Transverse",43.0,Petrol,Sedan,Manual
+Maruti Suzuki,Ciaz,881689,1462,4.0,"Front, Transverse",43.0,Petrol,Sedan,Manual
+Maruti Suzuki,Ciaz,958689,1462,4.0,"Front, Transverse",43.0,Petrol,Sedan,Manual
+Maruti Suzuki,Ciaz,997689,1462,4.0,"Front, Transverse",43.0,Petrol,Sedan,Manual
+Maruti Suzuki,Ciaz,980689,1462,4.0,"Front, Transverse",43.0,Petrol,Sedan,Automatic
+Maruti Suzuki,Ciaz,1058688,1462,4.0,"Front, Transverse",43.0,Petrol,Sedan,Automatic
+Maruti Suzuki,Ciaz,1098689,1462,4.0,"Front, Transverse",43.0,Petrol,Sedan,Automatic
+Maruti Suzuki,Ciaz,1138189,1498,4.0,"Front, Transverse",43.0,Diesel,Sedan,Manual
+Maruti Suzuki,Ciaz,997689,1498,4.0,"Front, Transverse",43.0,Diesel,Sedan,Manual
+Maruti Suzuki,Ciaz,1109189,1498,4.0,"Front, Transverse",43.0,Diesel,Sedan,Manual
+Skoda,Rapid,998599,1598,4.0,"Front, Transverse",55.0,Petrol,Sedan,Manual
+Skoda,Rapid,1006139,1498,4.0,"Front, Transverse",55.0,Diesel,Sedan,Manual
+Skoda,Rapid,881916,1598,4.0,"Front, Transverse",55.0,Petrol,Sedan,Manual
+Skoda,Rapid,1129599,1498,4.0,"Front, Transverse",55.0,Diesel,Sedan,Manual
+Skoda,Rapid,1249599,1498,4.0,"Front, Transverse",55.0,Diesel,Sedan,Automatic
+Skoda,Rapid,1243599,1598,4.0,"Front, Transverse",55.0,Petrol,Sedan,Automatic
+Skoda,Rapid,1399599,1498,4.0,"Front, Transverse",55.0,Diesel,Sedan,Automatic
+Skoda,Rapid,1273599,1498,4.0,"Front, Transverse",55.0,Diesel,Sedan,Manual
+Skoda,Rapid,1115599,1598,4.0,"Front, Transverse",55.0,Petrol,Sedan,Manual
+Skoda,Rapid,999599,1598,4.0,"Front, Transverse",55.0,Petrol,Sedan,Automatic
+Skoda,Rapid,975599,1598,4.0,"Front, Transverse",55.0,Petrol,Sedan,Manual
+Skoda,Rapid,1099599,1598,4.0,"Front, Transverse",55.0,Petrol,Sedan,Automatic
+Skoda,Rapid,1158599,1498,4.0,"Front, Transverse",55.0,Diesel,Sedan,Manual
+Skoda,Rapid,1273599,1498,4.0,"Front, Transverse",55.0,Diesel,Sedan,Automatic
+Fiat,Abarth Punto,980970,1368,4.0,"Front, Transverse",0.0,Petrol,Hatchback,Manual
+Hyundai,Creta,999990,1396,4.0,"Front, Transverse",55.0,Diesel,SUV,Manual
+Hyundai,Creta,999990,1591,4.0,"Front, Transverse",55.0,Petrol,SUV,Manual
+Hyundai,Creta,1232534,1591,4.0,"Front, Transverse",55.0,Petrol,SUV,Manual
+Hyundai,Creta,1394437,1591,4.0,"Front, Transverse",55.0,Petrol,SUV,Manual
+Hyundai,Creta,1377363,1591,4.0,"Front, Transverse",55.0,Petrol,SUV,Automatic
+Hyundai,Creta,1287041,1591,4.0,"Front, Transverse",55.0,Petrol,SUV,Automatic
+Hyundai,Creta,1197919,1396,4.0,"Front, Transverse",55.0,Diesel,SUV,Manual
+Hyundai,Creta,1366797,1582,4.0,"Front, Transverse",55.0,Diesel,SUV,Manual
+Hyundai,Creta,1543564,1582,4.0,"Front, Transverse",55.0,Diesel,SUV,Manual
+Hyundai,Creta,1527395,1582,4.0,"Front, Transverse",55.0,Diesel,SUV,Automatic
+Hyundai,Creta,1421208,1582,4.0,"Front, Transverse",55.0,Diesel,SUV,Manual
+Hyundai,Creta,1336033,1582,4.0,"Front, Transverse",55.0,Diesel,SUV,Automatic
+Hyundai,Creta,1422937,1591,4.0,"Front, Transverse",55.0,Petrol,SUV,Manual
+Hyundai,Creta,1572064,1582,4.0,"Front, Transverse",55.0,Diesel,SUV,Manual
+Hyundai,Creta,1107167,1396,4.0,"Front, Transverse",55.0,Diesel,SUV,Manual
+Hyundai,Creta,1092192,1591,4.0,"Front, Transverse",55.0,Petrol,SUV,Manual
+Hyundai,Creta,1279983,1591,4.0,"Front, Transverse",55.0,Petrol,SUV,Manual
+Hyundai,Creta,1414247,1582,4.0,"Front, Transverse",55.0,Diesel,SUV,Manual
+Tata,Harrier,1345363,1956,3.0,"Front, Transverse",50.0,Diesel,SUV,Manual
+Tata,Harrier,1471368,1956,3.0,"Front, Transverse",50.0,Diesel,SUV,Manual
+Tata,Harrier,1591368,1956,3.0,"Front, Transverse",50.0,Diesel,Hatchback,Manual
+Tata,Harrier,1721368,1956,3.0,"Front, Transverse",50.0,Diesel,Hatchback,Manual
+Tata,Harrier,1732231,1956,3.0,"Front, Transverse",50.0,Diesel,Hatchback,Manual
+Tata,Harrier,1730755,1956,3.0,"Front, Transverse",50.0,Diesel,Hatchback,Manual
+Isuzu,Dmax V-Cross,1654783,2499,4.0,"Front, Transverse",0.0,Diesel,Pick-up,Manual
+Isuzu,Dmax V-Cross,1806813,2499,4.0,"Front, Transverse",0.0,Diesel,Pick-up,Manual
+Isuzu,Dmax V-Cross,1999000,1898,4.0,"Front, Transverse",0.0,Diesel,Pick-up,Automatic
+Mitsubishi,Outlander,2693000,2360,4.0,0,60.0,Petrol,SUV,Automatic
+Mercedes,Mercedes-Benz Gla-Class,3438000,1991,4.0,"Front, Longitudinal",50.0,Petrol,SUV,Automatic
+Mercedes,Mercedes-Benz Gla-Class,3233000,2143,4.0,"Front, Longitudinal",70.0,Diesel,SUV,Automatic
+Mercedes,Mercedes-Benz Gla-Class,3564000,2143,4.0,"Front, Longitudinal",70.0,Diesel,SUV,Automatic
+Mercedes,Mercedes-Benz Gla-Class,7784944,1991,4.0,"Front, Longitudinal",50.0,Petrol,SUV,Automatic
+Mercedes,Mercedes-Benz Gla-Class,3864000,2143,4.0,"Front, Longitudinal",70.0,Diesel,SUV,Automatic
+Mercedes,Mercedes-Benz Gla-Class,8067000,1991,4.0,"Front, Longitudinal",50.0,Petrol,SUV,Automatic
+Honda,Accord Hybrid,4321237,1993,4.0,"Front, Transverse",60.0,Hybrid,Sedan,Automatic
+Bmw,5-Series,5930000,1995,4.0,"Front, Longitudinal",70.0,Diesel,Sedan,Automatic
+Bmw,5-Series,6680000,2993,6.0,"Front, Longitudinal",70.0,Diesel,Sedan,Automatic
+Bmw,5-Series,5980000,1998,6.0,"Front, Longitudinal",70.0,Petrol,Sedan,Automatic
+Bmw,6-Series,6890000,2993,6.0,"Front, Longitudinal",88.0,Diesel,Sedan,Automatic
+Bmw,6-Series,7450000,2993,6.0,"Front, Longitudinal",88.0,Diesel,Sedan,Automatic
+Bmw,6-Series,6440000,4395,8.0,"Front, Longitudinal",70.0,Petrol,Coupe,Automatic
+Bmw,6-Series,6440000,1995,4.0,"Front, Longitudinal",66.0,Diesel,Sedan,Automatic
+Porsche,Macan,8503000,2995,6.0,"Front, Longitudinal",65.0,Petrol,SUV,Automatic
+Porsche,Macan,6998000,1984,6.0,"Front, Longitudinal",65.0,Petrol,SUV,Automatic
+Jaguar,F-Type,23659454,5000,0.0,0,0.0,Petrol,Convertible,Automatic
+Jaguar,F-Type,22155390,5000,6.0,"Front, Longitudinal",72.0,Petrol,Coupe,Automatic
+Jaguar,F-Type,26501830,5000,8.0,"Front, Longitudinal",70.0,Petrol,Coupe,Automatic
+Jaguar,F-Type,28004965,5000,8.0,"Front, Longitudinal",70.0,Petrol,Convertible,Automatic
+Jaguar,F-Type,9092578,1997,6.0,"Front, Longitudinal",63.0,Petrol,Coupe,Automatic
+Jaguar,F-Type,10144987,1997,6.0,"Front, Longitudinal",63.0,Petrol,Convertible,Automatic
+Jaguar,F-Type,10419200,1997,8.0,"Front, Longitudinal",63.0,Petrol,Convertible,Automatic
+Jaguar,F-Type,9366433,1997,4.0,"Front, Longitudinal",63.0,Petrol,Coupe,Automatic
+Bmw,M5,15490000,4395,8.0,"Front, Longitudinal",68.0,Petrol,Sedan,Automatic
+Lexus,Lx 570,23290000,5700,0.0,"Front, Transverse",93.0,Diesel,SUV,Automatic
+Ferrari,458 Spider,43367500,3902,8.0,"Front, Longitudinal",86.0,Petrol,"Coupe, Convertible",Automatic
+Maruti Suzuki R,Wagon,479000,998,3.0,"Front, Transverse",32.0,Petrol,Hatchback,Manual
+Maruti Suzuki R,Wagon,526000,998,3.0,"Front, Transverse",32.0,Petrol,Hatchback,Automatic
+Maruti Suzuki R,Wagon,548000,1197,3.0,"Front, Transverse",32.0,Petrol,Hatchback,Manual
+Maruti Suzuki R,Wagon,434000,998,3.0,"Front, Transverse",32.0,Petrol,Hatchback,Manual
+Maruti Suzuki R,Wagon,513501,1197,3.0,"Front, Transverse",32.0,Petrol,Hatchback,Manual
+Maruti Suzuki R,Wagon,560500,1197,3.0,"Front, Transverse",32.0,Petrol,Hatchback,Automatic
+Maruti Suzuki R,Wagon,594800,1197,3.0,"Front, Transverse",32.0,Petrol,Hatchback,Automatic
+Maruti Suzuki R,Wagon,441000,998,3.0,"Front, Transverse",32.0,Petrol,Hatchback,Manual
+Maruti Suzuki R,Wagon,486001,998,3.0,"Front, Transverse",32.0,Petrol,Hatchback,Manual
+Maruti Suzuki R,Wagon,520500,1197,3.0,"Front, Transverse",32.0,Petrol,Hatchback,Manual
+Maruti Suzuki R,Wagon,567500,1197,3.0,"Front, Transverse",32.0,Petrol,Hatchback,Automatic
+Maruti Suzuki R,Wagon,533000,998,3.0,"Front, Transverse",32.0,Petrol,Hatchback,Automatic
+Maruti Suzuki R,Wagon,500500,998,3.0,"Front, Transverse",32.0,CNG,Hatchback,Manual
+Maruti Suzuki R,Wagon,507500,998,3.0,"Front, Transverse",32.0,CNG,Hatchback,Manual
+Tata,Tiago Nrg,594993,1199,3.0,"Front, Transverse",35.0,Petrol,Crossover,Manual
+Tata,Tiago Nrg,689993,1047,3.0,"Front, Transverse",35.0,Diesel,Crossover,Manual
+Tata,Tiago Nrg,639993,1199,3.0,"Front, Transverse",35.0,Petrol,Crossover,AMT
+Mahindra,Nuvosport,797802,1493,3.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Mahindra,Nuvosport,905642,1493,3.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Mahindra,Nuvosport,984818,1493,3.0,"Front, Transverse",60.0,Diesel,SUV,Manual
+Mahindra,Nuvosport,832415,1493,3.0,"Front, Transverse",0.0,Diesel,SUV,Manual
+Mahindra,Nuvosport,972359,1493,3.0,"Front, Transverse",60.0,Diesel,SUV,Automatic
+Mahindra,Nuvosport,1048603,1493,3.0,"Front, Transverse",60.0,Diesel,SUV,Automatic
+Nissan,Kicks,955000,1498,4.0,"Front, Transverse",50.0,Petrol,SUV,Manual
+Nissan,Kicks,1095000,1498,4.0,"Front, Transverse",50.0,Petrol,SUV,Manual
+Nissan,Kicks,1109000,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Manual
+Nissan,Kicks,1251000,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Manual
+Nissan,Kicks,1369000,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Manual
+Nissan,Kicks,1465000,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Manual
+Nissan,Kicks,1465000,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Manual
+Nissan,Kicks,989000,1461,4.0,"Front, Transverse",50.0,Diesel,SUV,Manual
+Tata,Winger,1205000,2200,4.0,"Front, Longitudinal",60.0,Diesel,MUV,Manual
+Hyundai,Kona Electric,2371858,0,0.0,"Front, Longitudinal",0.0,Electric,SUV,Automatic
+Toyota,Camry,3788000,2487,4.0,"Front, Transverse",50.0,Hybrid,Sedan,Automatic
+Audi,A5,6061200,1968,4.0,"Front, Longitudinal",0.0,Diesel,Sedan,Automatic
+Land Rover,Discovery,10205494,2993,6.0,"Front, Longitudinal",85.0,Diesel,SUV,Automatic
+Land Rover,Discovery,9689321,2993,6.0,"Front, Longitudinal",85.0,Diesel,SUV,Automatic
+Land Rover,Discovery,8433741,2995,6.0,"Front, Longitudinal",89.0,Petrol,SUV,Automatic
+Land Rover,Discovery,8077550,2995,6.0,"Front, Longitudinal",89.0,Petrol,SUV,Automatic
+Land Rover,Discovery,8877094,2993,6.0,"Front, Longitudinal",85.0,Diesel,SUV,Automatic
+Land Rover,Discovery,7693664,2995,6.0,"Front, Longitudinal",89.0,Petrol,SUV,Automatic
+Land Rover,Discovery,10861088,2993,6.0,"Front, Longitudinal",85.0,Diesel,SUV,Automatic
+Land Rover,Discovery,8937846,2995,6.0,"Front, Longitudinal",89.0,Petrol,SUV,Automatic
+Lexus,Ls 500H,18221000,3456,6.0,"Front, Transverse",82.0,Hybrid,SUV,Automatic
+Lexus,Ls 500H,18736000,3456,6.0,"Front, Transverse",82.0,Hybrid,SUV,Automatic
+Lexus,Ls 500H,19371000,3456,6.0,"Front, Transverse",82.0,Hybrid,SUV,Automatic
+Rolls-Royce,Rolls-Royce Phantom,95000000,6749,12.0,"Front, Longitudinal",100.0,Petrol,Sedan,Automatic
+Rolls-Royce,Rolls-Royce Phantom,75400000,6749,12.0,"Front, Longitudinal",100.0,Petrol,Sedan,Automatic
+Fiat,Punto Evo,535562,1172,4.0,"Front, Transverse",45.0,Petrol,Hatchback,Manual
+Fiat,Punto Evo,631292,1172,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Fiat,Punto Evo,692655,1248,4.0,"Front, Longitudinal",45.0,Diesel,Hatchback,Manual
+Fiat,Punto Evo,747774,1248,4.0,"Front, Transverse",45.0,Diesel,Hatchback,Manual
+Toyota,Yaris,940000,1496,4.0,0,42.0,Petrol,Sedan,Manual
+Toyota,Yaris,1055000,1496,4.0,"Front, Transverse",42.0,Petrol,Sedan,Manual
+Toyota,Yaris,1174000,1498,4.0,"Front, Transverse",42.0,Petrol,Sedan,Manual
+Toyota,Yaris,1418000,1496,4.0,"Front, Transverse",42.0,Petrol,Sedan,Automatic
+Toyota,Yaris,1175000,1496,4.0,"Front, Transverse",42.0,Petrol,Sedan,Automatic
+Toyota,Yaris,1010000,1496,4.0,"Front, Transverse",42.0,Petrol,Sedan,Automatic
+Toyota,Yaris,1294000,1496,4.0,"Front, Transverse",42.0,Petrol,Sedan,Automatic
+Toyota,Yaris,1296000,1496,4.0,"Front, Transverse",42.0,Petrol,Sedan,Manual
+Toyota,Yaris,1197000,1498,4.0,"Front, Transverse",42.0,Petrol,Sedan,Manual
+Toyota,Yaris,876000,1496,4.0,0,42.0,Petrol,Sedan,Manual
+Toyota,Yaris,974000,1496,4.0,"Front, Transverse",42.0,Petrol,Sedan,Manual
+Toyota,Yaris,935000,1496,4.0,0,42.0,Petrol,Sedan,Automatic
+Toyota,Yaris,1083000,1496,4.0,"Front, Transverse",42.0,Petrol,Sedan,Automatic
+Toyota,Yaris,1317000,1498,4.0,"Front, Transverse",42.0,Petrol,Sedan,Automatic
+Skoda,Octavia,1599599,1395,4.0,"Front, Transverse",50.0,Petrol,Sedan,Manual
+Skoda,Octavia,1799599,1968,4.0,"Front, Longitudinal",50.0,Diesel,Sedan,Manual
+Skoda,Octavia,1899599,1395,4.0,"Front, Transverse",50.0,Petrol,Sedan,Manual
+Skoda,Octavia,2059599,1798,4.0,"Front, Transverse",50.0,Petrol,Sedan,Automatic
+Skoda,Octavia,2079599,1968,4.0,"Front, Transverse",50.0,Diesel,Sedan,Manual
+Skoda,Octavia,2299599,1968,4.0,"Front, Transverse",50.0,Diesel,Sedan,Automatic
+Skoda,Octavia,2359599,1798,4.0,"Front, Transverse",50.0,Petrol,Sedan,Automatic
+Skoda,Octavia,2359599,1968,4.0,"Front, Transverse",50.0,Diesel,Sedan,Automatic
+Skoda,Octavia,1549000,1395,4.0,"Front, Transverse",50.0,Petrol,Sedan,Manual
+Skoda,Octavia,1699000,1968,4.0,"Front, Transverse",50.0,Diesel,Sedan,Manual
+Skoda,Octavia,1999599,1798,4.0,"Front, Transverse",50.0,Petrol,Sedan,Automatic
+Skoda,Octavia,2199599,1968,4.0,"Front, Transverse",50.0,Diesel,Sedan,Automatic
+Mercedes,Mercedes-Benz Glc,5275000,1991,4.0,"Front, Transverse",66.0,Petrol,SUV,Automatic
+Mercedes,Mercedes-Benz Glc,5775000,1950,4.0,"Front, Transverse",50.0,Diesel,SUV,Automatic
+Porsche,Cayenne Coupe,13151000,2995,6.0,"Front, Longitudinal",75.0,Petrol,0,Automatic
+Porsche,Cayenne Coupe,19763000,2995,8.0,"Front, Longitudinal",90.0,Petrol,0,Automatic
+Mahindra,Verito,748370,1461,4.0,"Front, Transverse",50.0,Diesel,Sedan,Manual
+Mahindra,Verito,772617,1461,4.0,"Front, Transverse",50.0,Diesel,Sedan,Manual
+Mahindra,Verito,845154,1461,4.0,"Front, Transverse",50.0,Diesel,Sedan,Manual
+Mitsubishi,Pajero Sport,2903750,2477,4.0,"Front, Longitudinal",70.0,Diesel,SUV,Manual
+Mitsubishi,Pajero Sport,2835500,2477,4.0,"Front, Longitudinal",70.0,Diesel,SUV,Automatic
+Mitsubishi,Pajero Sport,2953240,2477,4.0,"Front, Longitudinal",70.0,Diesel,SUV,Manual
+Mitsubishi,Pajero Sport,2992800,2477,4.0,"Front, Longitudinal",70.0,Diesel,SUV,Manual
+Mitsubishi,Pajero Sport,2952500,2477,4.0,"Front, Longitudinal",70.0,Diesel,SUV,Automatic
+Bentley,Flying Spur,34167064,3993,8.0,"Front, Longitudinal",90.0,Petrol,Sedan,Automatic
+Bentley,Flying Spur,39382083,5998,12.0,"Rear, Longitudinal",90.0,Petrol,Sedan,Automatic
+Honda,City,991000,1497,4.0,"Front, Transverse",40.0,Petrol,Sedan,Manual
+Honda,City,1065900,1497,4.0,"Front, Transverse",40.0,Petrol,Sedan,Manual
+Honda,City,1182000,1497,4.0,"Front, Transverse",40.0,Petrol,Sedan,Manual
+Honda,City,1312000,1497,4.0,"Front, Transverse",40.0,Petrol,Sedan,Automatic
+Honda,City,1111000,1498,4.0,"Front, Transverse",40.0,Diesel,Sedan,Manual
+Honda,City,1191000,1498,4.0,"Front, Transverse",40.0,Diesel,Sedan,Manual
+Honda,City,1302000,1498,4.0,"Front, Transverse",40.0,Diesel,Sedan,Manual
+Honda,City,1421000,1498,4.0,"Front, Transverse",40.0,Diesel,Sedan,Manual
+Honda,City,1431000,1497,4.0,"Front, Transverse",40.0,Petrol,Sedan,Automatic
+Honda,City,1201000,1497,4.0,"Front, Transverse",40.0,Petrol,Sedan,Automatic
+Mitsubishi,Montero,6862560,3200,4.0,"Front, Longitudinal",88.0,Diesel,SUV,Automatic
